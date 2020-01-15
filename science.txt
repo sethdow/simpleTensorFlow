@@ -1,0 +1,2626 @@
+Assessing the impacts of climatic and, in particular, land use changes on rates of soil erosion by
+water is the objective of many national and international research projects. However, over the last
+decades, most research dealing with soil erosion by water has concentrated on sheet (interrill) and rill
+erosion processes operating at the (runoff) plot scale. Relatively few studies have been conducted on
+gully erosion operating at larger spatial scales.
+Recent studies indicate that (1) gully erosion represents an important sediment source in a range
+of environments and (2) gullies are effective links for transferring runoff and sediment from uplands
+to valley bottoms and permanent channels where they aggravate off site effects of water erosion. In
+other words, once gullies develop, they increase the connectivity in the landscape. Many cases of
+damage (sediment and chemical) to watercourses and properties by runoff from agricultural land
+relate to (ephemeral) gullying. Consequently, there is a need for monitoring, experimental and
+modelling studies of gully erosion as a basis for predicting the effects of environmental change
+(climatic and land use changes) on gully erosion rates.
+In this respect, various research questions can be identified. The most important ones are:
+(1) What is the contribution of gully erosion to overall soil loss and sediment production at various
+temporal and spatial scales and under different climatic and land use conditions?
+(2) What are appropriate measuring techniques for monitoring and experimental studies of the
+initiation and development of various gully types at various temporal and spatial scales?
+(3) Can we identify critical thresholds for the initiation, development and infilling of gullies in
+different environments in terms of flow hydraulics, rain, topography, soils and land use?
+(4) How does gully erosion interact with hydrological processes as well as with other soil
+degradation processes?
+0341-8162/03/$ - see front matter D 2003 Elsevier Science B.V. All rights reserved.
+PII: S0341-8162(02)00143-1
+* Corresponding author. Tel.: +32-1632-6425; fax: +32-1632-6400.
+E-mail addresses: jean.poesen@geo.kuleuven.ac.be (J. Poesen), valentinird@laopdr.com (C. Valentin).
+www.elsevier.com/locate/catena
+Catena 50 (2003) 91 – 133
+(5) What are appropriate models of gully erosion, capable of predicting (a) erosion rates at various
+temporal and spatial scales and (b) the impact of gully development on hydrology, sediment
+yield and landscape evolution?
+(6) What are efficient gully prevention and gully control measures? What can be learned from
+failures and successes of gully erosion control programmes?
+These questions need to be answered first if we want to improve our insights into the impacts of
+environmental change on gully erosion. This paper highlights some of these issues by reviewing
+recent examples taken from various environments.
+D 2003 Elsevier Science B.V. All rights reserved.
+Keywords: Gully erosion; Climate change; Land use change; Sediment yield; Techniques; Thresholds; Flow
+hydraulics; Rainfall; Topography; Soils; Infiltration; Drainage; Models; Erosion control; Connectivity
+1. Introduction
+Assessing the impacts of climatic and land use changes on rates of soil erosion by water is
+the objective of many national and international research projects (e.g. Favis-Mortlock and
+Boardman, 1995; Williams et al., 1996; Poesen et al., 1996a; Van Oost et al., 2000; Nearing,
+2001). However, over the last decades, most research dealing with soil erosion by water has
+mainly focussed on sheet (interrill) and rill erosion processes operating at the (runoff) plot
+scale. This is seen in (1) the numerous field studies where runoff plots have been established
+in order to assess soil loss rates due to sheet (interrill) and rill erosion under various climatic
+conditions or land use practices (e.g. Risse et al., 1993; Kosmas et al., 1997) and (2) the use
+of both empirical and process-based field-scale and catchment-scale soil erosion models
+(e.g. Jetten et al., 1999), addressing mainly sheet and rill erosion, for assessing soil erosion
+under global change or for establishing soil erosion risk maps at various scales (e.g. Van der
+Knijff et al., 2000). However, in many landscapes under different climatic conditions and
+with different land uses, one can observe the presence and dynamics of various gully types,
+i.e. ephemeral gullies, permanent or classical gullies and bank gullies (Figs. 1 –3). Fieldbased evidence suggests that sheet and rill erosion as measured on runoff plots are not
+realistic indicators of total catchment erosion nor do they indicate satisfactorily the
+redistribution of eroded soil within a field. It is through (ephemeral) gully erosion that a
+large fraction of soil eroded within a field or catchment is redistributed and delivered to
+watercourses (e.g. Evans, 1993b).
+Gully erosion is defined as the erosion process whereby runoff water accumulates and
+often recurs in narrow channels and, over short periods, removes the soil from this narrow
+area to considerable depths. Permanent gullies (e.g. Fig. 2) are often defined for
+agricultural land in terms of channels too deep to easily ameliorate with ordinary farm
+tillage equipment, typically ranging from 0.5 to as much as 25 –30 m depth (Soil Science
+Society of America, 2001).
+In the 1980s, the term ephemeral gully erosion was introduced to include concentrated flow erosion larger than rill erosion but less than classical gully erosion, as a
+consequence of the growing concern that this sediment source used to be overlooked in
+traditional soil erosion assessments (Foster, 1986; Grissinger, 1996a,b). Even though in
+the literature ephemeral gullies are recorded on many photographs of erosion, it is only
+during the last two decades that these erosion phenomena have been recognised as being
+a major part of the erosional systems on cropland (Evans, 1993b). According to the Soil
+Science Society of America (2001), ephemeral gullies (e.g. Fig. 1) are small channels
+eroded by concentrated overland flow that can be easily filled by normal tillage, only to
+reform again in the same location by additional runoff events. Poesen (1993) observed
+ephemeral gullies to form in concentrated flow zones, located not only in natural
+drainage lines (thalwegs of zero order basins or hollows) but also along (or in) linear
+landscape elements (e.g. drill lines, dead furrows, headlands, parcel borders, access
+roads, etc.). Channel incisions in linear landscape elements are usually classified as rills
+according to the traditional definitions that associate rill formation with the micro-relief
+generated by tillage or land-forming operations (Haan et al., 1994). However, such
+incisions may also become very large, so this classification seems unsuited. In order to
+account for any type of concentrated flow channels that would never develop in a
+conventional runoff plot used to measure rates of interrill and rill erosion, Poesen (1993)
+distinguishes rills from (ephemeral) gullies by a critical cross-sectional area of 929 cm2
+(square foot criterion). Hauge (1977) first used this criterion. Other criteria include a
+minimum width of 0.3 m and a minimum depth of about 0.6 m (Brice, 1966), or a
+minimum depth of 0.5 m (Imeson and Kwaad, 1980). As to the upper limit of gullies, no
+clear-cut definition exists. For instance, Derose et al. (1998) studied sediment production
+by a large gully, i.e. 500 m wide and 300 m deep. In other words, the boundary between
+a large gully and a(n) (ephemeral) river channel is very vague. Nevertheless, it must be
+acknowledged that the transition from rill erosion to ephemeral gully erosion (Fig. 1) to
+classical gully erosion (Fig. 2) and to river channel erosion represents a continuum, and
+any classification of hydraulically related erosion forms into separate classes, such as
+Fig. 3. Bank gully which developed in sunken lane bank (in the foreground) near Leefdaal, Belgium (January
+1994). Note the rills (to the right of the standing person) which connect the bank gully with the upland.
+94 J. Poesen et al. / Catena 50 (2003) 91–133
+microrills, rills, megarills, ephemeral gullies, gullies, is, to some extent, subjective
+(Grissinger, 1996a,b). In fact, Nachtergaele et al. (2002a) demonstrated that (ephemeral)
+gullies can be considered as channels characterised by a mean width (W) between that of
+rills and (small) rivers. For all these channels, W seems to be essentially controlled by
+peak flow discharge ( Q) and the relation between both parameters can be expressed by
+the equation W = aQb
+, with a being a coefficient and the exponent b varying from 0.3
+for rills, over 0.4 for (ephemeral) gullies to 0.5 for (small) rivers (Fig. 4). For gullies, the
+proposed W–Q relation only holds for concentrated flow incising relatively homogenous
+soil material in terms of erodibility (i.e. soil erodibility remains constant with depth). If a
+resistant soil horizon is present at shallow depth (e.g. frozen layer, plough pan, Bthorizon or fragipan), W will be much larger than the value predicted with this equation.
+In addition, if a more erodible layer is present at shallow depth, this relation will not
+hold anymore (Nachtergaele et al., 2002a).
+By definition, bank gullies (Fig. 3) develop wherever concentrated runoff crosses an
+earth bank. Given that the local slope gradient of the soil surface at the bank riser is very
+steep (i.e. subvertical to vertical), bank gullies can rapidly develop at or below the soil
+surface by hydraulic erosion, piping and eventually mass movement processes even
+Fig. 4. Power relation between concentrated runoff discharge ( Q) and mean eroded channel width (W ) for various
+types of eroded channels. Note the change in exponent b from 0.3 for rills to 0.4 for gullies and 0.5 for small river
+channels. Vertical bars indicate transition zones between the established relations (after Nachtergaele et al.,
+2002a).
+J. Poesen et al. / Catena 50 (2003) 91–133 95
+though catchment areas are very small (Poesen and Govers, 1990). Once initiated, bank
+gullies retreat by headcut migration into the more gentle sloping soil surface of the bank
+shoulder and further into low-angled pediments, river or agricultural terraces (Poesen et
+al., 2002).
+So far, no systematic compilation of morphological characteristics (e.g. length,
+width, depth) of the different types of gullies and their controlling factors (e.g.
+topography, soil type, land use, hydrology) in a wide range of environments has been
+made. Such quantitative data would be needed so as to allow land managers to foresee
+the type of gullies they might expect when land use changes are taking place.
+Recent field-based studies (e.g. see papers in this volume) indicate that (1) gully
+erosion is an important soil degradation process in a range of environments, causing
+considerable soil losses and producing large volumes of sediment and (2) gullies are
+effective links for transferring runoff and sediment from uplands to valley bottoms and
+permanent channels where they aggravate offsite effects of water erosion (e.g.
+flooding, pollution). Field observations in different environments clearly indicate that
+the development of (ephemeral) gullies increases the connectivity in the landscape and
+hence also the sediment delivery to lowlands and watercourses. Many cases of damage
+(sediment and chemical) to watercourses and properties by runoff from agricultural
+land relate to the occurrence of (ephemeral) gully erosion (e.g. Verstraeten and Poesen,
+1999; Boardman, 2001). However, soil losses caused by (ephemeral) gully erosion are
+rarely accounted for in current soil loss assessment programmes (e.g. Liggitt and
+Fincham, 1989; Poesen et al., 1996a; Garen et al., 1999). Consequently, there is a
+need for monitoring, experimental and modelling studies of gully erosion as a basis
+for predicting the effects of environmental change (climatic and land use changes) on
+gully erosion rates. In order to better predict impacts of environmental change on
+gully erosion processes and rates, more research efforts are needed. For recent
+literature reviews on gully erosion, the reader is referred to Bocco (1991), Bull and
+Kirkby (1997, 2002) and Poesen et al. (2002). This paper addresses some research
+issues/questions which are felt to be crucial if one wants to progress with the
+prediction and the control of this geomorphic/soil degradation process under environmental change.
+2. Contribution of gully erosion to soil loss and sediment production
+What is the contribution of gully erosion to overall soil loss and sediment production
+at various temporal and spatial scales and under different climatic and land use
+conditions? The answer to this question cannot be readily given (Poesen et al.,
+1996b), but a compilation of data from various sources indicates that this contribution
+may vary considerably. Data collected in different parts of the world (Table 1) show that
+soil loss rates by gully erosion (SLgully) represent from minimal 10% up to 94% of total
+sediment yield caused by water erosion. In this section, we explore the main factors
+controlling SLgully and we discuss some trends. First of all, we address the effects of
+spatial scale (size of study area) and temporal scale (time span) considered before
+focussing on environmental fact
+
+runoff plots (Poesen and Hooke, 1997). Mean sediment deposition rate measured over a
+period of 5 – 101 years (Avendan˜o Salas et al., 1997) in Spanish reservoirs with
+corresponding catchments ranging between 31 and 16,952 km2 equals 4.3 tons ha 1
+year 1 and can even go up to 10 tons ha 1 year 1 or more (Avendan˜o Salas et al., 1997;
+Lo´pez-Bermudez, 1990; Romero Dı´az et al., 1992; Sanz Montero et al., in press). These
+figures are significantly higher than reported short- to medium-term mean rates of interrill
+and rill erosion in the Mediterranean as measured on runoff plots (Castillo et al., 1997;
+Kosmas et al., 1997; Andreu et al., 1998; Puigdefabregas et al., 1999; Romero-Diaz et al.,
+1999; Cerda, 2001), i.e. less than or equal to 0.1 ton ha 1 year 1 for shrubland (matorral,
+n = 95 plot –years) and olive groves (n = 3), 0.2 ton ha 1 year 1 for wheat (n = 65) and
+Eucalyptus plantations (n = 12) and 1.4 tons ha 1 year 1 for vines (n = 9) (Kosmas et al.,
+1997). There are various possible reasons to explain the discrepancy between the reported
+sediment production rates at the catchment scale and at the runoff plot scale. One of these
+is that at the catchment scale, sediment production processes other than interrill and rill
+erosion such as gully and channel erosion also operate. Moreover, most sediment produced
+by interrill and rill erosion in uplands is often deposited at the foot of hillslopes or in
+depressions within the landscape and therefore does not reach the river channel. Hence,
+other sediment-generating processes in catchments such as gully or channel erosion must
+play an important role in the production of sediments which are transported by
+(ephemeral) rivers and which cause reservoir infilling. This hypothesis is confirmed by
+observations reported by Plata Bedmar et al. (1997) who studied Cs137 content of
+sediments deposited in the Puentes reservoir (south –east Spain). These authors reported
+that only 40% of the sediment deposited in the Puentes reservoir between 1970 and 1994
+originated in the 10-cm-thick topsoil from the catchment (which was assumed to
+accumulate most of the Cs137 fallout). Hence, 60% of the sediment accumulated in the
+reservoir came from subsurface soil horizons, which contained no Cs137. It is most likely
+that gully and river channel processes could be held responsible for the erosion and
+transport of this sediment volume from subsurface horizons to the reservoir.
+A recent survey within the catchments of 22 Spanish reservoirs clearly indicates that
+specific sediment yield increases when the frequency of gullies increases in the catchment
+(Fig. 5, Poesen et al., 2002; Verstraeten et al., in press). For catchments where no gullies were
+observed, mean specific sediment yield was 0.74 ton ha 1 year 1 (n = 3). For catchments
+where numerous gullies could be observed, however, mean specific sediment yield was one
+order of magnitude larger, i.e. 9.61 tons ha 1 year 1 (n = 7). Catchments with some gullies
+had an intermediate mean specific sediment yield of 2.97 tons ha 1 year 1 (n = 12). In other
+words, the presence of (active) gullies in these Mediterranean catchments seems to be an
+important indicator for the magnitude of sediment production within these catchments.
+All cited data clearly indicate that SLgully highly depends on the spatial scale
+considered and that for particular spatial scales, it can even become the dominant soil
+erosion process. Several studies have demonstrated that when scaling up area-specific soil
+loss rates, the latter do not remain constant or increase gradually with increasing size of the
+considered study area, but that area-specific soil loss rates may suddenly increase one
+order of magnitude once a critical area (corresponding to a topographic threshold value
+needed for gullies to develop) has been exceeded (e.g. Poesen et al., 1996b; Osterkamp
+and Toy, 1997). Thus, clearly, neglecting soil losses caused by gully erosion when
+J. Poesen et al. / Catena 50 (2003) 91–133 99
+changing spatial scale would definitely result in a significant underestimation of soil loss
+rates as observed in the field in a range of environments. Therefore, when scaling up
+sediment yield data from the plot scale to the hillslope or catchment scale, gully erosion
+needs to be addressed.
+2.2. Temporal scale
+The few available data indicate that SLgully also clearly depends on time span
+considered. For instance, data presented by Poesen et al. (2002) indicate that soil losses
+caused by ephemeral gully erosion for a relatively wet winter (1996) on the Iberian
+Peninsula represent 47 – 51% of total soil loss by water erosion, whereas at the medium
+time scale (i.e. 3 – 20 years) this figure rises to 80– 83%. Data published by Trimble (1999)
+for Coon Creek (USA) allow the calculation of the contribution of SLgully to overall
+sediment production on uplands by water erosion for three successive periods, i.e. (1)
+1853– 1938, (2) 1938 –1975 and (3) 1975 – 1993. The calculations yield values of 18%,
+36% and 20%, respectively, of total sediment produced on uplands being caused by gully
+Fig. 5. Impact of the presence of active gullies in 22 selected Spanish catchments (draining to a reservoir) on areaspecific sediment yield (SSY). Specific sediment yield was calculated based on published reservoir sedimentation
+data (Avendan˜o Salas et al., 1997; Sanz Montero et al., 1996). Presence of ephemeral and active permanent gullies
+as well as of bank gullies in an area within 5 km from the reservoir or in the vicinity of the main river channels
+draining to the reservoir was recorded during field surveys (after Poesen et al., 2002; Verstraeten et al., in press). A
+is catchment area.
+100 J. Poesen et al. / Catena 50 (2003) 91–133
+erosion. These fluctuations are attributed to changing land use during these successive
+periods. More research is needed to assess and elucidate changes in SLgully when
+considering different time periods.
+2.3. Environmental controls
+Apart from spatial and temporal scale differences, differences in SLgully for various
+measuring sites (Table 1) or different time periods can also be attributed to differences in
+gully types and to various environmental controls. For (small) catchments, SLgully = f
+(gully type, soil type, land use, climate, topography).
+2.3.1. Gully type
+Poesen et al. (1996b) found that rates of ephemeral gully erosion in central Belgium
+ranged between 3.0 and 6.6 tons ha 1 year 1 and exceeded by one order of magnitude
+rates by bank gully erosion, i.e. 0.3 –0.6 ton ha 1 year 1
+.
+2.3.2. Soil type
+Field data collected by Evans (1993a) in the UK revealed that the contribution of
+gully erosion in valley bottoms to total soil loss is most important in localities with
+dominantly heavier textured soils. Where soils were mostly silty, coarse loamy or
+sandy, rill erosion on the hillslopes became more important, reducing the relative
+contribution of ephemeral gully erosion in valley bottoms to overall sediment
+production. In central Belgium, ephemeral gully volumes that eroded in truncated
+soil profiles (i.e. with no Bt-horizon) can be four to five times larger than volumes
+eroded by ephemeral gullies developing into intact soil profiles (Poesen, 1993). In
+addition, where large amounts of rock fragments are present at the soil surface (e.g.
+erosion pavements), sheet and rill erosion rates are usually relatively small compared
+to (ephemeral) gully erosion rates (Poesen et al., 1998).
+2.3.3. Land use
+For catchments with hillslopes producing small amounts of sediment by interrill and rill
+erosion, such as, for instance, hillslopes under grassland (Bradford and Piest, 1980),
+gullies contribute significantly more to overall sediment yield compared to sheet and rill
+erosion than if the hillslopes produced large amounts of sediment, such as hillslopes under
+cropland. Similar observations for bare and crop-covered catchments have been reported
+by Cerdan et al. (2003). Development of infrastructure, such as irrigation canals or roads in
+a catchments, can also induce an increase in gully erosion rate due to inappropriate
+drainage of surface water (e.g. Nyssen, 2001; Vanacker et al., in press). Data collected by
+Nyssen (2001) in the Ethiopian Highlands, for instance, indicate that SLgully evolved
+from 33% to 55% after the construction of a road in the study area because of more runoff
+concentration.
+2.3.4. Climate and weather
+Limited available data indicate that SLgully (%) is relatively more important in dry
+environments compared to wet environments (Poesen et al., 1996b; Poesen and
+J. Poesen et al. / Catena 50 (2003) 91–133 101
+Hooke, 1997). Data from central Belgium indicate that the relative contribution of
+gully erosion to total sediment production within a given catchment decreases with
+increasing return period (and thus, intensity) of the rain event (Fig. 6). Since low
+intensity rains in the study area prevail in the winter period, the relative contribution
+of gully erosion to total sediment production is higher during that period compared to
+the spring and summer periods which are characterised by more intense rainstorms
+(Vandaele and Poesen, 1995). Depending on the observation period, SLgully (%) will
+be partly determined by the magnitude and frequency of rain events causing gully
+erosion. In addition, data from Fig. 6 indicate that any change in the rainfall regime
+(due to a climate change) for a given area will most likely also affect SLgully (%). In
+areas of pronounced continentality, there may be a considerable seasonal variation in
+SLgully because of a dominance of gully erosion by concentrated snowmelt runoff in
+spring (with little or no sheet erosion because of the lack of raindrop impact forces
+and the small velocity of sheet flow under a snow cover) and sheet and rill erosion
+during thunderstorms in summer (Auerswald, personal communication).
+2.3.5. Topography
+Although no data are available on the relation between SLgully (%) and topography, it
+is clear that topographic attributes such as slope gradient and drainage area affect the
+Fig. 6. Relation between return period of rain event and ratio of soil loss by gully erosion and total soil loss by
+water erosion in central Belgium [SLgully(%)]. Data presented in Poesen et al. (1996b) were measured by
+Vandaele and Poesen (1995) for a 25-ha catchment, whereas data from Beuselinck et al. (2000) were measured in
+a 250- and 300-ha catchment, respectively.
+102 J. Poesen et al. / Catena 50 (2003) 91–133
+density of the drainage network and hence the probability of gully channel development
+(see Section 4.3).
+This section highlighted some factors controlling SLgully. At present, however, no
+tool is available to predict SLgully for different spatial and temporal scales and for a
+range of environmental conditions. Clearly, more research is needed in this domain if
+we want to predict impacts of land use and climate changes on the risk for gully
+erosion.
+3. Techniques for measuring gully erosion processes and rates
+What are appropriate measuring techniques for monitoring and for experimental studies
+of the initiation and development of different gully types at various temporal and spatial
+scales? Contrary to sheet and rill erosion, where standardised procedures for assessment of
+erosion rates exist (e.g. runoff plot technique widely used for collecting soil loss data for
+assessment of erosion factors in, e.g. RUSLE), no standardised procedures are available
+for measuring gully erosion rates and controlling factors.
+Here, we present a brief overview of recent field and laboratory-based techniques used
+in order to assess gully erosion rates at various time scales.
+At the short-time scale ( < 1 –10 years) both ground-based and airborne techniques
+have been used to assess eroded volumes by gullying. Measuring directly the volumes
+of soil eroded by ephemeral gullying has been done in a range of cropland environments (e.g. Auzet et al., 1995; Casali et al., 1999; Vandaele and Poesen, 1995;
+Nachtergaele et al., 2001a,b; Valca´rcel et al., 2003; Øygarden, 2003). Short-term
+monitoring of gully head or gully wall retreat has been conducted by measuring
+regularly the change in distance between the edge of the gully head or wall and
+benchmark pins installed around the gully wall (e.g. Vandekerckhove et al., 2001b;
+Oostwoud Wijdenes and Bryan, 2001) or by measuring the three-dimensional morphology of the gully wall using a direct contact protractor system (e.g. Sneddon et al.,
+1988; Archibold et al., 1996). Several studies have applied photogrammetric techniques to sequential, large-scale aerial photographs in order to determine the volume of
+soil lost by concentrated flow erosion (e.g. Thomas et al., 1986; Ries and Marzolff,
+2003, this volume). Ritchie et al. (1994) measured gully cross-sections using a laser
+altimeter mounted in an aircraft. Although several new techniques have been proposed,
+few of these have been tested in a wide range of environments.
+At the medium-time scale (10 – 70 years) aerial photographs have been analysed to
+measure temporal changes in length, area or volume of various gully types (e.g. Burkard
+and Kostaschuk, 1995; Derose et al., 1998; Nachtergaele and Poesen, 1999; Daba et al.,
+2003; Ga´bris et al., 2003; Martinez-Casasnovas, 2003). Only gully systems with
+sufficiently large changes in morphology over time can be studied in this way. For gullies
+experiencing smaller changes over time, Vandekerckhove et al. (2001a) developed a
+framework using dendrochronological methods for estimating medium-term gully erosion
+rates based on the analysis of roots exposed by gully erosion, browsing scars by ungulates,
+exposed and dead root ends, root suckers, stems, branches or leading shoots of fallen trees
+and a sequence of trees within a gully.
+J. Poesen et al. / Catena 50 (2003) 91–133 103
+For the long-time scale, several studies have used historical data (documents and maps),
+artefacts and various dating techniques to reconstruct the conditions leading to significant
+gully erosion in the past (e.g. Prosser and Winchester, 1996; Trimble, 1998, 1999; Bork et
+al., 1998; Webb and Hereford, 2001; Dotterweich et al., 2003; Ga´bris et al., 2003).
+In order to better understand and model gully erosion processes, several field and
+laboratory-based experiments have been undertaken (for a recent overview of gully
+erosion processes, see Poesen et al., 2002; Bull and Kirkby, 2002). In the field,
+concentrated flow erosion has been simulated on undisturbed soil surfaces in order to
+detect critical flow intensity parameters leading to significant soil detachment and
+transport (e.g. Riley, 1992; Prosser et al., 1995; Franti et al., 1999). However, in the
+field, the relative importance of various subprocesses in gully development, i.e. flow
+detachment by flow shear stresses or by seepage forces, plunge pool erosion, headcutting,
+tension crack development and mass wasting on gully walls, cannot always easily be
+measured. Therefore, laboratory experiments with flumes ranging in length between 15
+and 29 m filled with soil and using simulated concentrated flow erosion have been set up
+to study the mechanics of channel development (e.g. Meyer, 1989; Govers et al., 1990;
+Robinson and Hanson, 1996; Bennett et al., 2000). Smaller laboratory flumes have been
+used to investigate subprocesses of channel initiation and development under drainage and
+seepage conditions (e.g. van der Poel and Schwab, 1988; Zhu et al., 1995; Bryan and
+Rockwell, 1998; Gabbard et al., 1998; Poesen et al., 1999; Bennett and Casali, 2001;
+Ro¨mkens et al., 2001).
+Although a significant number of studies dealing with the measurement of gully
+erosion rates exist, the possibilities and limitations of the various monitoring and
+experimental approaches used in these studies are not always clear. In addition, due to
+a lack of standardisation, the data on gully erosion rates obtained in various
+environments are not always comparable. Standardisation of the various measuring
+techniques will lower the uncertainties on the measurements of gully erosion rates but
+will still not always solve the problem of how to compare these erosion rates with
+those caused by other erosion processes.
+4. Thresholds for gully development
+Gully erosion clearly is a threshold phenomenon. This geomorphic process occurs only
+when a threshold in terms of flow hydraulics, rainfall, topography, pedology and land use
+has been exceeded. Can we identify critical thresholds for the initiation, development and
+infilling of gullies in different environments?
+4.1. Hydraulic thresholds for gully development under various land uses
+Gully channels can only develop if concentrated (overland) flow intensity during a
+rain event exceeds a threshold value. Horton (1945) first proposed the concept of a
+threshold force required for channel initiation. This force of flow is often expressed in
+terms of the boundary flow shear stress (sb = Ugds with U = density of runoff water,
+g = acceleration due to gravity, d = depth of flow and s = sine of the soil surface
+104 J. Poesen et al. / Catena 50 (2003) 91–133
+gradient). The threshold force required to cause channel incision into the soil surface
+in the concentrated flow zone is termed the critical flow shear stress (sc). A key
+question is: how large should sc be for (ephemeral)gullies to initiate?
+Critical flow shear stress values for incipient motion of individual soil particles
+have been well studied. Entrainment of loose silt and fine to medium sand grains
+occurs at sc values of less than 1 Pa (as deduced from the Shields curve, Vanoni and
+Brooks, 1975, p. 99). For bare, cohesive topsoils with soil shear strength values at
+saturation up to 10 kPa, laboratory experiments indicate that sc values can go up to 4
+Pa (e.g. Rauws and Govers, 1988; Brunori et al., 1989; Crouch and Novruzzi, 1989).
+These sc values are of the same order as those reported for rill incision in bare
+topsoils in the field under drainage conditions, i.e. 1.8 – 10.6 Pa depending on soil
+properties (texture, soil water content, content of calcium, iron, organic carbon and
+potassium, e.g. Gilley et al., 1993). Soil shear strength values at saturation appear to
+be a good indicator for sc (Poesen et al., 1998). Experimental data collected by Huang
+and Laflen (1996) indicate that critical flow conditions for rilling under seepage
+conditions may be significantly less than those for drainage conditions. Land management practices may affect the critical flow shear stress values for concentrated flow
+erosion as Franti et al. (1999) reported that sc values for no-till were about twice that
+for tilled soil. Along the same lines, Laflen and Beasly (1960)clearly demonstrated
+that compaction of the topsoil increased sc values. Living plant roots may increase
+critical flow conditions for rill channel development (Li, 1995; Sidorchuk and
+Grigore´v, 1998).
+In contrast with the number of publications on critical flow conditions for incipient
+rilling, very few studies report critical flow conditions for incipient gullying. During a rain
+event, many rills may develop, but only a few may grow into a gully provided that flow
+intensities exceed those needed for the erosion of a gully channel. For cultivated land,
+Nachtergaele (2001) calculated critical shear stresses during peak flow that occurred in 33
+ephemeral gully channels in central Belgium and in 40 ephemeral gully channels in
+southern Portugal. For each study area, a frequency distribution of sc values was
+established (Fig. 7): sc. ranges between 3.3 and 32.2 Pa (mean = 14 Pa) for ephemeral
+gullies eroded in silt loam (loess-derived) topsoils in Belgium, whereas sc ranges between
+16.8 and 74.4 Pa (mean = 44 Pa) for ephemeral gullies formed in stony sandy loams in
+Portugal. In general, an inverse relation between concentrated flow width and sc for
+ephemeral gully development in these study areas is observed (Poesen et al., 2002). The
+significant difference in sc between both study areas cannot be explained by differences in
+land use, as in both study areas ephemeral gullies developed in tilled cropland, but are
+attributed to different soil types. Whereas no rock fragments are present in the Belgian
+loess-derived soils, rock fragment content of topsoils in southern Portugal amounts to 30%
+by mass on average. Poesen et al. (1999) demonstrated experimentally that rock fragment
+content in topsoils significantly reduces the susceptibility of these soils to concentrated
+flow erosion. For noncultivated land in Australian valley floors, Prosser (1996) reported sc
+values for gully initiation of 21 Pa for bare clay, 70 Pa for heavily degraded aquatic plants
+or tussock and sedge, >105 Pa for undisturbed aquatic plants, >180 Pa for lightly degraded
+tussock and sedge and >240 Pa for undisturbed tussock and sedge. Grassed irrigation
+canals have also been found to resist flow shear stresses of up to 260 Pa before showingors.
+
+The recognition that Earth’s surface topography evolves over time (1) provides
+a basis for reconstructing past tectonic
+(2, 3) or climatic processes (4, 5), as well as
+the formation of sedimentary sequences. The
+creation of geographic barriers or connections as
+topography evolves also influences speciation
+(6, 7) and biodiversity (8). Despite the importance of landscape change and the long history
+of research, establishing rates of change, or even
+determining whether a given landscape is in a
+steady or disequilibrium state, has proven remarkably difficult. Geochronological techniques
+have made it possible to measure long-term rates
+of erosion (9, 10), but large spatial and diverse
+temporal scales make it very challenging to assess
+topographic change by measuring erosion rates
+throughout an entire landscape.
+The evolution of topography is fundamentally coupled to changes in river channel networks,
+which carve the landscape into ridges and valleys
+as they erode through rock. River basins are part
+of a dynamic system in which channel geometry,
+channel gradient, and network topology adjust
+toward a balance between tectonic uplift and erosion (11), a balance that depends on climatic conditions and the erodibility of the rock substrate
+(12). Examples of major changes in the topology
+or geometry of river networks have been reported
+on the basis of irregular network shape (13, 14) or
+geologic evidence such as sediment provenance
+(15), and geologists have described these events
+with marked terms like river capture and stream
+piracy (13, 16). However, without a straightforward way to map the motion of individual
+drainage divides, let alone the adjustment of an
+entire landscape, most studies of river systems
+have focused on the equilibration of vertical incision rates while assuming that map-view basin
+geometry remains fixed in time (2, 3).
+Recent efforts to generalize the long-term
+evolution of river networks have found support
+for drainage basin reorganization. Theoretical (17),
+experimental (18), and modeling studies (19–22)
+have argued that water divides are dynamic features of a landscape that routinely migrate, either
+progressively or through discrete river capture, in
+some cases even leading to complete reorganization of river networks (17). However, this theoretical
+progress has not been matched by observational
+support, which has remained limited to interpretations of large-scale capture events where geologic
+and geomorphic evidence is available (14, 23, 24).
+We incorporate this view of mobile drainage
+divides into a procedure for mapping the dynamic evolution of river networks. We posit that
+equilibrium in a landscape requires that river network topology and drainage basin geometry adjust to maintain stationary water divides. This
+principle leads to a quantitative criterion for landscape disequilibrium that provides a prediction of
+drainage divide migration and a tool to map past,
+present, and future changes in a river network. We
+demonstrate this technique through analysis of a
+numerical model of landscape evolution and then
+apply it to several study sites, mapping transient features associated with river network reorganization.
+A Measure of River Basin Disequilibrium
+Most landscapes comprise river channels that
+erode bedrock and transport sediment out of the
+system and hillslopes that erode by a variety of
+processes but remain in long-term equilibrium
+with their bounding river channels (25). The mapview arrangement of river basins evolves through
+the horizontal motion of drainage divides, which
+is a consequence of differential rates of river channel erosion on opposite sides of the divides. A
+measure of the disequilibrium of opposing river
+channels can therefore be used to infer the stability of the intervening divide and the direction
+of divide motion that would bring the adjoining
+channels toward equilibrium.
+In a river network, two flow paths that originate at a common drainage divide and terminate at a common base level experience the
+same drop in elevation, but their steady-state elevation profiles—the theoretical profiles for which
+erosion would balance rock uplift—may differ
+depending on the topologic and geometric structure of the network. The uppermost parts of the
+flow paths, between the drainage divide and the
+channel heads where the river system initiates, traverse hillslopes. However, several factors imply
+that hillslopes do not contribute substantially to
+differences in the flow paths’ steady-state elevation profiles. First, the elevation drop along
+hillslopes is typically small relative to that in
+river channels. Second, steady-state hillslope
+relief is about equal on either side of the divide:
+Equilibrium hillslopes have similar gradients (26),
+and channel heads tend to be equidistant from
+divides (25). We therefore limit our analysis to
+the river channels. If drainage basins on opposite
+sides of a divide are structured such that the steadystate elevation of one channel head is higher than
+that of its opposing channel, the divide is not
+stable, and the network must adjust to bring the
+divide to a stable position. In general, any change
+in network topology or geometry that brings the
+cross-divide difference of steady-state channel
+head elevation to zero will bring the system into
+equilibrium. The simplest way to achieve this is
+by divide migration toward the basin with the
+higher steady-state elevation. Our strategy is to
+determine steady-state channel elevations and, thereby, directions and patterns of divide motion that
+allow the landscape to attain an equilibrium for
+both channel elevations and divide positions.
+Steady-state channel elevation can be estimated
+from a model for river incision into bedrock. The
+most common model is based on the hypothesis
+that incision rate is proportional to the rate at
+which the flow expends energy as it travels over
+the bed, or stream power (27). Stream power depends on channel slope and river discharge, although the latter is generally replaced by the
+upstream drainage area, A, which serves as a
+readily available proxy. Including rock uplift due
+to tectonics, U, the elevation of a point in a channel, z, varies with time, t, and distance along a
+channel, x, according to
+
+n
+ð1Þ
+where K is a constant that depends on rock
+erodibility, precipitation rate (28), and channel
+geometry, and m and n are empirical constants.
+Other physical models, for example, based on bed
+shear stress, lead to an identical form of the erosion law; only the parameters, in particular, the
+exponents, are different. In most cases, these are
+determined empirically (see Materials and Methods),
+so Eq. 1 can be regarded as general for any erosion
+law that incorporates power law scaling between
+channel slope and drainage area at steady state.
+where zb is the elevation at the river network’s
+base level at x = xb. The quantity c is an integral
+function of position in the channel network (29),
+c ¼ ∫
+x
+xb
+A0
+Aðx′Þ
+ m
+n
+dx′ ð3Þ
+where A0 is an arbitrary scaling area, and the
+integration is performed upstream from base level to location x. c is the characteristic parameter
+for transient solutions of the linear (n = 1) version
+of Eq. 1 (30), and it remains the fundamental
+scaling parameter for the nonlinear case. The inclusion of the scaling area, A0, gives c dimensions of length, but the kinematic wave nature of
+Eq. 1 implies that c could equally well represent
+a time. In particular, if Kn
+A0
+m is included in the
+denominator of the integrand, c takes on dimensions of time and, for the case of n = 1, it becomes
+the characteristic time required for a perturbation
+at the river’s base level to reach a point x in the
+channel (12).
+The term in parentheses in Eq. 2 represents
+the relative magnitudes of tectonic forcing and
+erosivity, and scales the magnitude of elevation.
+The parameter c characterizes the river network
+topology and geometry, which determine how
+tectonic forcing generates variable topography
+throughout a river basin. Given the linear form of
+Eq. 2, it is apparent that c serves as a metric for
+the steady-state elevation of a channel at location
+x. Thus, with constant tectonic forcing and homogeneous physical properties, a difference in c across
+a divide implies disequilibrium and, presumably,
+motion of the divide in the direction of larger c to
+achieve equilibrium (Fig. 1). This observation is
+the basis for our subsequent analysis: Mapping c
+throughout a channel network and comparing c
+values across drainage divides yield a snapshot of
+the dynamic reshaping of drainage basins.
+Elevation-c Scaling with Changing
+Drainage Area
+As a divide moves, either by continuous migration or through discrete river capture, drainage
+area is removed from one basin and added to the
+other. The channel length of each affected tributary also changes, leading to a change in the steadystate elevation of each channel head bounding the
+moving divide, presumably moving the channels
+toward equilibrium as in Fig. 1. However, analysis of a simplified scenario—the effect of a sudden change in drainage area on an equilibrium
+elevation profile (see Materials and Methods)—
+illustrates a feedback between erosion rate and
+divide motion that complicates this system. An
+instantaneous change in area induces an instantaneous change in c, throwing the affected profile
+into a state of disequilibrium. Figure 2 shows the
+
+Equilibrium Drainage Basins:
+China’s Loess Plateau
+China’s Loess Plateau is a region in the Yellow
+River (Huang He) drainage basin where windblown sediments have accumulated to thicknesses
+of tens to hundreds of meters over the past 2.6 million years (31), draping preexisting topography
+(32). We constructed c maps for two adjacent
+tributaries of the Yellow River, the Yanhe River
+and the Qingjian River (see Materials and Methods), which together drain an area of nearly
+12,000 km2 (Fig. 4). There are no large contrasts
+in c across drainage divides at any scale, with
+one exception in the headwaters of the Yanhe,
+where a strongly curved channel has lower c than
+its neighbor to the north, a sign that it is gaining
+area by migration in this direction. Excepting this
+feature, the otherwise concordant c values across
+drainage divides in this landscape suggest that the
+channel network is nearly stationary. This river
+channel network was established through the
+Tertiary on the tectonically stable Ordos platform,
+and the absence of tectonic perturbation has allowed it to attain a topologic (but not necessarily
+topographic) steady state. This may be additionally promoted by recent incision of the relatively
+uniform, erodible loess, although the main features of the drainage network appear to predate
+deposition of the loess (32).
+Basin Reorganization in an Active
+Mountain Range: Taiwan
+The island of Taiwan was formed by collision of
+the Luzon volcanic arc with the Eurasian plate
+starting a few million years ago and continuing to
+the present day. Despite its youth, it has been
+argued that the overall height and width of the
+mountain range are in a steady state (33), in large
+part because the rates of tectonic shortening, uplift, and erosion are high (34). However, this condition does not necessarily require equilibrium
+at the scale of individual drainage basins. To investigate this point, we map c in a limited area of
+the eastern Central Range (Fig. 5), where rock
+type, precipitation, and uplift rate are nearly uniform, and variations that do occur are primarily in
+an east-west direction, parallel to the dominant
+flow direction of the rivers. Rivers draining to the
+west of the main divide traverse different rock
+types and active structures with spatially variable
+uplift rates, so we avoid comparisons of c across
+the main divide and limit our analysis to the internal
+and lateral divides of the eastward-draining rivers.
+We find that many drainage divides at multiple scales have bounding channels with contrasting c, which implies that the divides are unstables also serves to confirm that there are no
+large changes in K or U through the study area. If
+this were the case, we would not expect to see the
+high degree of internal consistency between drainage divide asymmetry and cross-divide c. Although
+we do recognize some instances where lithologic
+effects change channel steepness, these appear
+to be of minor importance compared to the geometric disequilibrium reflected in c.
+Ongoing Basin Reorganization on a
+Passive Margin: Southeastern United States
+The southeastern seaboard of the United States
+comprises the coastal plain and Piedmont physiographic provinces and is defined by the old
+mountain belt of the Appalachians in the west
+and by the Atlantic Ocean in the east, which
+formed by rifting starting about 200 million years
+ago (35). The boundary between the Piedmont
+and the Appalachians is the Blue Ridge (36, 37),
+which defines the mountain front from Georgia
+to Pennsylvania and is interpreted to be an erosional escarpment associated with Atlantic rifting,
+similar to escarpments on other rifted margins
+(38). The top of the Blue Ridge defines the water
+divide between the Atlantic coastal rivers and the
+Mississippi River basin. This divide appears to be
+migrating inland, often by discrete capture of upland rivers (15, 23, 36, 39). The spatial distribution of c illuminates the escarpment beautifully
+(Fig. 6), with a strong discontinuity in c between
+high values in the upper Tennessee River and
+Ohio River basins and low values in all basins
+draining directly to the east coast. This discontinuity defines an erosional front propagating to
+the northwest.
+Some care must be taken in interpreting contrasts in c across the main Appalachian divide,
+given that rivers that meet at this divide follow
+very different paths to the ocean and may therefore traverse regions with different uplift, climate,
+or rock type. If these variations were known precisely, they could be included in the characteristic
+parameter (Eq. 5). However, even without precise constraints on the spatial patterns of U and K,
+it is possible to show that the c difference across
+the main divide is largely a signature of geometric
+disequilibrium. The most important heterogeneity
+that potentially creates spatially variable K is the
+contrast between the hard, erosion-resistant metamorphic and sedimentary rocks of the Appalachians
+and the softer sedimentary rocks of the Piedmont
+and coastal plain (40). If this effect were included
+through Eq. 5, the result would be to enhance the
+contrast in c across the main divide, not diminish it.
+B C
+A
+S4A
+S4B C
+B A 25 km
+Fig. 5. Map and perspective views of c for part of the eastern Central Range, Taiwan. (A) Map of
+c for a portion of the eastern Central Range (location in inset). Arrows show viewing directions for
+subsequent panels and for additional figures in supplementary materials. (B) Small basin growing at the
+expense of neighboring basins. Both neighboring basins with high-c upper reaches are losing area and
+may soon lose their headwaters by capture. (C) Long, narrow river basin losing area from several
+directions, leaving it with high c and high elevation. Vertical exaggeration in (B) and (C) is 2×. Inferred
+divide motion from low to high c is indicated by white arrows.
+Fig. 8
+Fig. 7
+100 km
+N
+0 55
+Smoky Mountains
+Blue Ridge Escarpment
+Basins with area < 10 km 2
+2 1 0 0.1 0.2 0.3
+0
+0.2
+0.4
+0.6
+0.8
+1
+Normalized erosion rate difference, E/E
+ /
+–0.3
+Fig. 6. Map of c in river basins of the southeastern United States. Heavy white lines show drainage
+basin boundaries, and fine white lines show state boundaries. The distinct, near-linear discontinuity in c between
+the yellow arrows illuminates the Blue Ridge escarpment and its southern continuation into the North Georgia
+mountains. The c contrast indicates northwest migration of the escarpment. White boxes mark the areas shown
+in Figs. 7 and 8. Black boxes mark regions analyzed in the inset figure, which shows differences in basinaveraged erosion rates determined from concentrations of cosmogenic radionuclides (CRNs) in river sediment
+(10) plotted against differences in c across the divides separating the basins (see Materials and Methods). Larger
+red symbols represent averages across the main escarpment. Points to the right of the dashed line are consistent
+with the inferred direction of divide motion. Data for this figure are shown in supplementary materials.
+www.sciencemag.org SCIENCE VOL 343 7 MARCH 2014 1248765-5
+RESEARCH ARTICLE
+Uplift in this tectonically quiescent region is
+dominated by isostatic response to erosion, which,
+if not constant, only varies over long wavelengths.
+However, there may be an additional, relatively
+young component of dynamic topography (41).
+This dynamic component may create a spatial gradient in U, but this gradient is oriented predominantly northeast-southwest along the Appalachian
+crest in the study area (41) and, hence, should not
+contribute to discontinuities in c across the main
+divide. As with the Taiwan example, we can also
+compare more subtle features of the c map and
+topography to check for consistency. For example, the divides between the Apalachicola River,
+the Tennessee River, and the Altamaha River
+(Fig. 6) show different values or even signs in
+cross-divide c, and in all cases, the contrast is
+mimicked by subtle but clear asymmetry in topography. These observations suggest that the
+major features of the c map do not arise from
+spatially variable K or U.
+We also find support for inferred divide motion in erosion rates derived from cosmogenic
+nuclide concentrations in river sediment (10).
+Concentrations of 10Be generated by cosmic ray
+exposure of quartz, now found as sand in the
+modern rivers, have been used to estimate erosion rates in a number of catchments across the
+southern Appalachians. We have compiled published data from the Great Smoky Mountains of
+Tennessee and North Carolina (42) and two segments of the Blue Ridge escarpment in North
+Carolina and Virginia (43) (Fig. 6). Motion of a
+drainage divide must ultimately be driven by different erosion rates on opposite sides of the divide. By comparing erosion rates from adjoining
+basins, we can estimate the direction of divide
+motion and test whether it is consistent with the
+direction inferred from the cross-divide difference
+in c (see Materials and Methods). We found that
+the cross-divide c difference correctly predicts the
+difference in erosion rate in 29 of the 34 adjoining
+basins we studied, with a strong correlation in
+magnitude in addition to predicting the correct
+sign (Fig. 6, inset).
+Mapping of c is also useful for identifying
+discrete capture events, many of which have been
+recognized along the Appalachian front. We
+present a documented example in Fig. 7 to show
+the signature pattern in c. The Savannah River is
+proposed to have captured the headwaters of the
+Apalachicola River. Evidence for this interpretation includes the deeply incised Tallulah Gorge
+above the capture point and a common freshwater fauna in both catchments (39, 44). The spatial distribution of c shows sharp discontinuities
+across the Savannah-Apalachicola and SavannahTennessee divides, implying ongoing advance
+of the Savannah into both of these catchments
+(Fig. 7). In contrast, the Apalachicola-Tennessee
+divide is close to equilibrium. A discrete river
+capture involves a sudden transfer of drainage
+area from one basin to another, which will strongly
+affect c but not elevation, thereby pushing the
+relationship between c and elevation in opposite
+directions for the captured and capturing rivers
+(Figs. 1 and 2). This is demonstrated clearly in
+the Savannah capture region by tributaries to the
+upper Savannah, which gained area and therefore
+have smaller c than expected for their elevation,
+and by the Apalachicola, which lost area and
+therefore has larger c than expected for its elevation (Fig. 7). At present, the upper Savannah is
+responding to the increase in its drainage area by
+incising rapidly, creating marked features like
+the Tallulah Gorge as it lowers its elevation profile back to the regional c-z trend. Similarly, the
+Apalachicola is incising less rapidly to raise its
+elevation profile back to the regional trend. This
+process will continue until both rivers reach equilibrium or, more likely, another capture occurs.
+Another interesting feature of the map in Fig. 6
+is the set of chevron-shaped drainage divides
+scattered across the coastal plain and Piedmont
+from Florida to Virginia, which are highlighted
+by consistently higher c values on the coastal
+sides of the divides (Fig. 8). The anomalously
+high c values in these basins are associated with
+anomalously high elevations (Fig. 8), similar to
+the area-starved basins in Taiwan (Fig. 5), but in
+this case, the topography has relief of only meters
+to tens of meters. The coastal basins are losing
+area as their headwaters narrow and shorten, and
+some may eventually disappear. This appears
+to be part of a regional basin reorganization in
+which the large Atlantic-draining basins are widening and pinching out the smaller, intervening
+basins. Such a process is consistent with northwestsoutheast lengthening of the Piedmont and coastal
+plain provinces. River basins exhibit a narrow range
+of length-to-width ratios (45), so that lengthening
+0 10 20 30
+0
+400
+800
+ (m)
+Elevation (m)
+Regional trend
+Savannah - captured
+Savannah - reversed
+Area gain
+Area loss Chattahoochee/Apalachicola
+Tallulah Gorge
+0 55
+Savannah
+Apalachicola
+Tennessee
+30 km
+Fig. 7. The Savannah and Apalachicola river capture. The Savannah River has captured the
+headwaters of the Apalachicola. The white circle marks the capture point. Profiles of elevation against c
+(lower panel) are offset from the regional trend in directions consistent with river capture (compare with
+Fig. 2). The upper reach of the Apalachicola (victim) has anomalously high c, consistent with area loss,
+whereas the upper reaches of the Savannah (aggressor) have anomalously low c, consistent with
+area gain.
+1248765-6 7 MARCH 2014 VOL 343 SCIENCE www.sciencemag.org
+RESEARCH ARTICLE
+in the flow direction can lead to basin reorganization, decreasing the number of basins to increase
+the average width (17, 18, 46). The Atlantic coastal
+region is lengthening by retreat of the Blue Ridge
+escarpment, as well as by seaward advance of
+the coastline, as evidenced by uplifted Pliocene
+terraces, possibly as a dynamic response to deep
+mantle flow (41).
+Global Implications
+Our analysis presents and quantifies a dynamic
+view of landscapes. Drainage divides migrate or
+make discrete jumps; river basins expand, contract, and deform; and this dynamic reorganization can persist for hundreds of millions of years,
+or perhaps indefinitely in the presence of active
+tectonic deformation.
+This evidence of shifting drainage divides helps
+explain well-known morphologic properties of
+drainage basins. Basins in varied geographic settings are observed to take on specific geometric
+forms or statistical states (45–47). In particular,
+characteristics such as length-area scaling, tributary junction angles, and fractal dimension appear
+to be globally consistent. Models that optimize
+local or global energy dissipation reproduce many
+of these fundamental network characteristics
+(48, 49), although natural basins seem to be slightly suboptimal by these energy metrics. It has long
+been suspected that divide migration and river
+capture might be mechanisms by which drainage
+basins approach statistically uniform geometry
+(50). Our numerical models and analyses of natural landscapes provide evidence that this may, in
+fact, be the case, and additionally suggest that
+many natural basins are suboptimal because they
+have not yet reached an equilibrium configuration. Furthermore, our studies suggest that it is
+the geometric characteristics of the channel networks and their bounding divides that drive the
+system toward equilibrium.
+The ability to map disequilibrium in river basins also has implications for other fields of study.
+For example, river profiles are often interpreted
+in terms of transient changes in tectonic uplift,
+climatic conditions, or sea level. However, our
+analysis suggests that many perturbations in river
+profiles may instead arise from changes in drainage area. Drainage network connections and water
+divides that form geographic barriers affect the
+transport of sediment, nutrients, and dissolved elements, including those with important global
+biogeochemical functions such as nitrogen and
+carbon. Similarly, the migration or diversification
+of aquatic species and entire ecosystems depends
+on the transport pathways defined by rivers. Our
+ability to identify past and ongoing changes in
+river networks creates a new opportunity to explore connections between geological, chemical,
+and biological systems.
+Materials and Methods
+Response of c to a Change in Drainage Area
+For the calculation in Fig. 2, we assume that area
+and channel length scale according to A = kax
+h
+with x = 0 at the water divide (51), and to keep
+the calculation analytical, we assume that h = 2
+and m/n = 0.5. Most other values for the coefficients h, m, and n would require numerical
+integration, but the results will not change in
+character for a reasonable range of these coefficients. Defining a nondimensional length x* ¼ x
+xd
+,
+we obtain an initial distribution of
+cinit ¼
+ffiffiffiffiffiffiffiffiffiffiffiffi
+A0
+ka
+s ∫
+1
+x*
+x−1
+dx ¼ −
+ffiffiffiffiffiffiffiffiffiffiffiffi
+A0
+ka
+s lnðx*Þ ð6Þ
+and a steady-state elevation linearly proportional
+to cinit. We consider an instantaneous change in
+area of DA of this basin, assumed to be the consequence of adding or removing area to the headwaters of the basin. The change in area can be
+positive or negative, but it must occur upstream of
+the analysis. The width of the basin downstream of
+the area change is unchanged. With the nondimensional area perturbation, A* ¼ DA
+kac2
+d
+, following the
+area perturbation is defined by
+cp ¼ ffiffiffiffiffi
+A0
+p
+∫
+x*
+1
+1 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+kax2 þ A* p dx ð7Þ
+which can be integrated to give
+cp ¼ −
+ffiffiffiffiffi
+A0
+ka
+r
+ln x* þ
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+ðx*Þ
+2 þ A*
+q
+1 þ ffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+1 þ A* p
+0
+@
+1
+A ð8Þ
+Plotting cinit against cp (Fig. 2) is equivalent
+to showing elevation against c for an instantaneous change in area. For a basin losing area,
+there is a corresponding decrease in length of the
+channel, hence the smaller extent in cp of the
+curves in Fig. 2. For the basin gaining area, there
+is a corresponding increase in channel length, but
+this is not shown in Fig. 2 because the actual
+slope and length of this segment depend on the
+area distribution of the captured channel. A plot
+of channel slope against drainage area shows a
+similar perturbation (fig. S1).
+Landscape Evolution Model
+The numerical model for landscape evolution (Fig.
+3) uses the code DAC described by Goren et al.
+(21). DAC incorporates numerical and analytical
+solutions to represent processes at different scales.
+The numerical component solves the conservation
+of mass equation with a stream power incision law
+(Eq. 1) for a channel network spanning a dynamic,
+irregular grid. An analytical solution is used for the
+subgrid topography to represent low-order fluvia
+the numerical grid evolve as divide migration leads
+to river capture, abandonment of channels with
+insufficient drainage area, or creation of new channels as hillslopes lengthen. The model in Fig. 3
+consists of a 50 × 100–km rectangular domain in
+which the four edges are fixed to a constant elevation. Precipitation and rock type are steady and
+uniform. An initial topography is generated by
+imposing a rock uplift rate that varies linearly from
+0.5 mm/year along the lower edge to 5.0 mm/year
+along the upper edge. These conditions are run to
+steady state. Subsequently, the tectonic gradient is
+removed, and uplift rate is set to a constant value
+of 1 mm/year. Basin divides on all scales become
+unstable and migrate, causing drainage basins to
+change their size and shape (see movie S1). c is
+calculated from Eq. 3 on the discrete grid, but because part of the river channel network is contained
+in the analytical solution, sections of the uppermost
+catchments are not shown in Fig. 3 or movie S1.
+Construction of c Maps
+Construction of maps of c followed a specific
+protocol. Hydraulic attributes of base level, flow
+directions, flow paths, and accumulated flow (upstream drainage area) were extracted from a digital elevation model (DEM). For flow direction
+and paths, closed basins were filled, and steepest
+descent neighbors were found for local flow direction. Any pixel with a contributing area less
+than a critical value, Ac, was excluded from the
+analysis. The critical area was typically on the
+order of 106 m2
+, although it can vary depending
+on the DEM resolution and the drainage density
+of the landscape. This value does not affect the
+downstream value of c, but it does determine how
+high into a catchment we conduct the analysis.
+An arbitrary scaling area, A0, and a value for m/n
+were selected, followed by integration of Eq. 3 to
+determine c for all pixels in the domain.
+The concavity, m/n, was selected through an
+iterative process. First, we constructed a series of
+c plots for individual drainage basins, covering
+a range of concavity values, and noted the m/n
+value that best reduced the scatter (29, 52). This
+was used to construct an initial c map, which
+was then interpreted in terms of divide stability.
+If divides appeared stable within the basin of interest, the process was complete. However, if there
+were large contrasts in cross-divide c, we reconsidered the c plots, noting the profiles of channels
+that appeared to be gaining or losing area based
+on the c analysis, or on independent geologic,
+geomorphic, or geochemical data. Because these
+c plots are expected to curve up or down (Figs.
+1 and 2), we modified our selection of m/n accordingly. The interpretation of area gain or loss
+is partially based on the resultant c map, so is
+potentially circular, but the iterative process consistently converged to a single solution. In some
+cases, we also applied this method to individual
+channel profiles where we could make an a priori
+assumption regarding the shape of the c plot. As
+a final check, we overlaid the c map on the digital
+topography and checked that predicted crossdivide c discontinuities were consistent with topographic features such as asymmetric upper channel
+profiles across divides. Figures 5 and 8 are examples of such comparison.
+Loess Plateau
+The 90-m resolution DEM derived from the Shuttle Radar Topography Mission (SRTM) (53) was
+used for the Loess Plateau. Two drainage basins
+were extracted and analyzed using a critical area,
+Ac, of 0.05 km2 and a scaling area, A0, of 1 m2
+.
+The low value for the critical area reflects the high
+drainage density of the area. Interpretation of the
+resultant c-elevation plots gave an optimum m/n
+of 0.35 (fig. S2).
+Taiwan
+For Taiwan, we used a 40-m resolution DEM
+derived from aerial photographs and available
+from the Center for Space and Remote Sensing
+Research, National Central University, Taiwan.
+A scaling area, A0, of 1 m2 and a critical area, Ac,
+of 1 km2 were used. Plots of c-elevation were
+constructed with concavity varying from 0.0 to
+0.6. The smallest scatter is obtained for a concavity of 0.3 to 0.4, but we favor a slightly higher
+value. Given our finding of many moving divides
+and captures, we expect many channels to exhibit
+c plots with low slope and high c, as well as many
+channels with kinks in the c-elevation profile in
+response to capture. These features become more
+obvious with concavities of 0.45 to 0.55 (fig. S3),
+so we prefer this value and use a value of 0.5 for
+the maps of c. This value was confirmed by comparison with topography and imagery, which is
+quite marked in Taiwan (Fig. 3 and fig. S4).
+Southeastern United States
+For the analysis of the southeastern United States,
+we used the 90-m CGIAR SRTM DEM, analyzed
+with a critical area, Ac, of 0.3 km2 and a scaling
+area, A0, of 1 m2
+. We constructed c-elevation
+plots for individual drainage basins (identified in
+fig. S5) in the study area for a range of m/n values
+(figs. S6 to S9). We found very dynamic divides
+in the region with examples of basins that were
+dominantly growing and others that were dominantly shrinking. The minimum variance in the
+c-elevation plots was found for values of m/n from
+0.25 to 0.35, but to match the c-elevation plot
+concavity to our interpretation of growing and
+shrinking basins, we required a larger m/n value of
+0.4 to 0.5. We also conducted a similar analysis on
+individual rivers where geological or geomorphic
+evidence permitted an a priori assessment of capture or a moving divide. This exercise also gave
+m/n values of 0.4 to 0.5 (for example, fig. S10).
+Maps in this paper were constructed using an m/n
+of 0.45, though other values were constructed to
+test sensitivity to m/n (fig. S11), which revealed
+that the features described in this paper were
+robust over a large range of m/n values.
+Map construction on the western side of the
+Appalachians is complicated by the need to include the drainage area of the entire Mississippi
+River basin. To avoid integrating the alluvial lower
+Mississippi, we initiated the c integration at the
+confluences between the westward draining rivers and the Ohio River. This required selecting a
+c-elevation pair for each river. To calculate these
+values, we used the regional c-elevation trend for
+the lower Tennessee River and lower Kanawha
+River. This resulted in an initial point of 8 m in c
+and 100 m in elevation for the Tennessee River
+and 10 m in c and 148 m in elevation for the
+Kanawha River.
+Differential Erosion Rates Estimated from
+Cosmogenic Radionuclide Concentrations
+We used published concentrations of the CRN
+10Be in quartz river sand to estimate differential
+erosion rates in select river basins. We used published data from Portenga and Bierman (10) in
+three areas within the southern Appalachians:
+two locations along the Blue Ridge escarpment,
+and one in the Great Smoky Mountains (Fig. 6).
+Original studies are in (42, 43). We selected locations with CRN measurements in adjoining
+basins where the difference in erosion rate can be
+compared to the cross-divide contrast in c. To
+estimate differential erosion across a divide, we
+differenced the basin-averaged erosion rates of
+adjoining basins and assigned the resulting differential erosion rate, DE, to the divide segment
+common to both basins. We then calculated the
+mean Dc across the shared divide segment by
+differencing pairs of adjoining channel heads in
+the same direction. This procedure was carried
+out for all primary divide segments between basins with comparable size. We did not analyze
+nested sub-basins. We also excluded one basin
+from the Great Smoky Mountains location, which
+appeared to have anomalous 10Be concentrations
+associated with an unusual intrusive igneous unit
+(figs. S12 to S14 and table S1).
+In the two Blue Ridge locations, there were
+few basins with CRN data directly adjoining one
+another. In these locations, we calculated an average differential erosion rate across the escarpment itself. We divided the escarpment into three
+segments (two segments as shown in fig. S14 and
+one segment shown in fig. S13) that had erosion
+rate measurements on each side. We then determined the mean erosion rate of each side of the
+escarpment by taking the mean erosion rate of
+basins proximal to the escarpment, but draining
+in opposing directions. We differenced these mean
+erosion rates to calculate an escarpment-averaged
+DE. We then calculated the mean Dc across each
+escarpment segment by differencing, in the same
+direction, the mean channel head c values along
+the escarpment segment. The results from all three
+study areas were normalized by dividing DE and
+Dc by their respective mean E or c for the two
+basins being compared (Fig. 6, inset).
+We also tested how much of the overall variance in the CRN erosion rate data could be explained by the cross-divide c gradients.We calculated
+an average cross-divide Dc for a basinClimate influences the erosion processes acting at the Earth’s surface. However, the effect of cooling during the Late Cenozoic era,
+including the onset of Pliocene–Pleistocene Northern Hemisphere
+glaciation (about two to three million years ago), on global erosion
+rates remains unclear1–4. The uncertainty arises mainly from a lack
+of consensus on the use of the sedimentary record as a proxy for
+erosion3,4 and the difficulty of isolating the respective contributions of tectonics and climate to erosion5–7. Here we compile 18,000
+bedrock thermochronometric ages from around the world and use
+a formal inversion procedure8 to estimate temporal and spatial variations in erosion rates. This allows for the quantification of erosion
+for the source areas that ultimately produce the sediment record on
+a timescale of millions of years.We find that mountain erosion rates
+have increased since about six million years ago and most rapidly
+since two million years ago. The increase of erosion rates is observed
+at all latitudes, but is most pronouncedin glaciated mountain ranges,
+indicating that glacial processes played an important part. Because
+mountains represent a considerable fraction of the global production of sediments9
+, our results imply an increase in sediment flux at
+a global scale that coincides closely with enhanced cooling during
+the Pliocene and Pleistocene epochs10,11.
+The Earth’s continental topography reflects the balance between
+tectonics and climate, and their interaction through erosion. Therefore,
+any change in either climate or tectonics is expected to lead to a change
+in topography and erosion rates. In that context, Late Cenozoic global
+cooling represents one of the best-documented major shifts in climate.
+During this transition, the climate cooled and evolved towards highamplitude oscillating conditions that are associated with the waxing
+and waning of continental ice sheets in the Northern Hemisphere and
+alpine glaciers throughout the Pliocene and Pleistocene epochs10,11. As
+a consequence of these oscillations, the climate’s influence on erosion
+became highly variable. In particular, it continuously switched between
+fluvial and (peri)glacial processes in many mid- to high-latitude, highelevation regions1,2. Several studies have documented locally an increase
+of erosion in response to this climate transition12–18, although the timing and magnitude of this erosional shift vary with latitude. However,
+whether this effect can explain the apparent global increase in sediment
+accumulation remains a subject of debate. The controversy comesfrom
+an observed increase in sediment accumulation rates, which may be
+biased by the incompleteness of the sedimentary record3,4.
+To address this issue, we quantify erosion rates at an unprecedented
+global scale directly from bedrock using low-temperature thermochronometry. Thermochronometry exploits the diffusion behaviour of noble
+gases through crystals, or damage trails produced by the spontaneous
+fission of 238U contained in target minerals, to interpretmeasured apparent ages in terms of the travel time of a rock from a given closure temperature (at which diffusion/annealing becomes negligible) to the surface
+(see ref. 19 for a review). The passage of a rock through a temperature
+field near the Earth’s surface gives its thermochronometric age, which
+can be converted into a cooling history and subsequently into an erosion rate integrated over the timescale provided by the measured age.
+We compiled data from across the globe for four low-temperature thermochronometric systems: apatite (U–Th)/He, apatite fission track,
+zircon (U–Th)/He and zircon fission track, which have approximate
+closure temperatures of 70 uC, 110 uC, 180 uC and 250 uC, respectively19.
+Taken together, these thermochronometers enable the tracking of bedrock erosion from typical crustal depths of about 8–10 km (ref. 19) up
+to the surface. Furthermore, by using multiple thermochronometers,
+and taking note of the information contained in the elevation at which
+bedrock samples were acquired, we are able to resolve recent variability
+in erosion rates. In total, 17,833 thermochronometric ages were compiled worldwide (Extended Data Fig. 1). Unlike sediment accumulation budgets3,4, which are subject to many assumptions about transport
+and deposition, thermochronometry provides a first-order unbiased
+estimate of erosion in the bedrock source regions.
+To estimate the rates of erosion in space and time, we perform aformal
+analysis of the compiled thermochronometric data using a new approach8
+based on linear inverse theory (Methods). This procedure enables the
+efficient treatment of a large number of spatially distributed data and
+provides an explicit definition of variance and resolution, which can be
+used to determine where erosion rates are well resolved both in space
+and time. We focus on the results from the past 8 million years (Myr),
+for which resolution is high enough to resolve potential changes in
+erosion rates (that is, where we might see variations associated with the
+onset of Pliocene–Pleistocene Northern Hemisphere glaciation). A
+limitation to our approach is that we do not consider complexities in
+the data related to small-scale tectonic structures. We expect such
+regional effects to be negligible at a global scale (Methods). Similarly,
+we do not consider uncertainties on the kinetic parameters of each
+thermochronometric system.
+Results indicate that erosion rates vary globally since 8 Myr ago
+within four orders of magnitude, ranging from less than 0.01 mm yr21
+up to about 10 mm yr21 (Fig. 1 and Supplementary Video). The slowesteroding regions (,0.01mm yr21
+)for which we have thermochronometric
+data are cratonic areas of central and western Australia, central North
+America and eastern Scandinavia. Rates are higher (0.01–0.1 mm yr21
+)
+in the passive margins of southeastern Australia, Brazil, the eastern
+USA, western Scandinavia,Madagascar, South Africa, Sri Lanka, southern
+India, the Tibetan plateau and its margins, and the Altiplano. Most of
+these thermochronometric age-derived erosion rates are integrated over
+several tens to hundreds of million years and, therefore, have insufficient
+resolution to reveal temporal variations associatedwith the Late Cenozoic
+cooling and Pliocene–Pleistocene glaciation.As anillustration, the authors
+of ref. 18 recently used the Pliocene–Pleistocene offshore sediment
+record and a palaeo-topographic reconstruction to identify an increase
+in erosion by a factor of 20 (from ,0.01 mm yr21 up to ,0.2 mm yr21
+)
+during the Pliocene–Pleistocene in western Scandinavia, which they
+attributed to a switch from fluvial to glacial erosion. Even with this
+1
+Institute of Earth Sciences, University of Lausanne, CH-1015 Lausanne, Switzerland. 2
+Department of Earth Sciences, Swiss Federal Institute of Technology, Sonneggstrasse 6, CH-8092 Zu¨rich, Switzerland.
+detected by any of the thermochronometric systems we have considered (Fig. 1).
+Erosion rates are significantly higher (2–7 mm yr21
+) in several tectonically active mountainous areas (Fig. 1) (for example, the Southern
+Alps of New Zealand, Taiwan, Papua New Guinea, the Himalayas and
+the St Elias Range of Alaska). These orogens also receive significant
+precipitation7
+, which can sustain high erosion rates. These areas are
+either glaciated or exhibit threshold hillslopes, dominated by landslides, which are a characteristic of high erosion rates20. Also, we observe
+rates higher than 1 mm yr21 in some tectonically quiescent orogens
+such as the western European Alps, the Coast Mountains of British
+Columbia, Fiordland in New Zealand or northern Patagonia. In contrast with some of the more tectonically active areas, we observe high
+rates only in quiescent areas where the topography was heavily affected
+by glacial erosion12–18.
+Our results highlight an increase in erosion during the Late Cenozoic
+in most mountain ranges (Figs 1b and c, 2 and 3). The majority of the
+increase in erosion rates we detect is based on the difference in cooling
+from apatite fission track to apatite (U–Th)/He closure depth. Our results
+therefore depend partly on the thermal model and kinetic parameters
+we prescribe for each system in the inversion scheme. We first evaluate
+the significance of this erosion rate increase by computing the ratio of
+erosion rates 2–0 Myr ago to those 6–4 Myr ago, limiting our analysis
+to regions where the thermochronological cooling history is well resolved
+(that is, resolution is higher than 0.25, which is chosen arbitrarily; see
+Methods). The distribution of erosion rates shows that more than 80%
+of the regions with high-resolution values exhibit an increase, with an
+erosion rate ratio between .1 and 4 (Fig. 2). This increase is observed
+at all latitudes, but is more pronounced at latitudes outside the intertropical zone (inset of Fig. 2). The increase of erosion rate in low-latitude,
+non-glaciated regions (that is, ,25u) may locally correspond to recent
+tectonic activity (for example, Papua New Guinea, Taiwan, the Red Sea
+or the northern Andes) but may also be associated with enhanced climatic variability1,2. Interestingly, we do not observe an increase of erosion rate in tectonically inactive regions at low latitudes. It may be that
+either the increase is not sufficiently large to be resolved by the thermochronometric data we compiled or there is a bias related to the spatial
+distribution of ages and the location of mountain ranges on Earth (such
+as that there are fewer mountain ranges at latitudes below 25u). At
+intermediate latitudes of 25u–50u, substantial changes in erosion rates
+are observed. In the Himalayas, rates have been consistently high over
+the past 8 Myr, but have increased in the northern high-elevation glaciated regions of the Greater Himalaya Sequence during the past 4 Myr,
+–160º –120º –80º –40º 0º 40º 80º 120º 160º
+–60º
+–40º
+–20º
+0º
+20º
+40º
+60º
+Erosion rates 6–4 Myr ago
+7.00
+<0.01
+0.10
+1.00
+Erosion rate (mm yr–1)
+0
+1
+2
+3
+>4
+Ratio of erosion rates
+–60º
+–40º
+–20º
+0º
+20º
+40º
+60º
+Erosion rates 2–0 Myr ago/erosion rates 6–4 Myr ago
+–60º
+–40º
+–20º
+0º
+20º
+40º
+60º
+Erosion rates 2–0 Myr ago
+Himalayas
+Tibet
+Southern
+Alps
+Fiordland
+Western
+Scandinavia
+Alps
+St Elias
+Range
+Coast
+Mountains
+Patagonia
+AltiplanoBrazil Southeastern
+Australia
+Central
+Australia
+Western
+Australia
+South Africa
+Eastern
+Scandinavia
+Eastern
+US
+Madagascar
+Sri Lanka
+Southern
+India Papua New
+Guinea
+Northern
+Andes
+Himalayas Taiwan
+Tibet
+Southern
+Alps
+Fiordland
+Western
+Scandinavia
+Alps
+St Elias
+Range
+Coast
+Mountains
+Patagonia
+AltiplanoBrazil Southeastern
+Australia
+Central
+Australia
+Western
+Australia
+South Africa
+Eastern
+Scandinavia
+Eastern
+USA
+Madagascar
+Sri Lanka
+Southern
+India Papua New
+Guinea
+Northern
+Andes
+Taiwan
+Longitude
+Latitude a
+b
+c
+Figure 1 | Erosion rates and their variations over
+the past 6 Myr, resolved into 2-Myr time steps.
+a, Erosion rates between 6 Myr ago and 4 Myr ago.
+b, Erosion rates between 2 Myr ago and 0 Myr ago.
+c, Ratio of erosion rates between 2–0 Myr ago
+and 6–4 Myr ago, where resolution is higher than
+0.25. We use a time step length of 2 Myr for ages
+younger than 40 Myr ago, and a 40-Myr time
+step for ages older than 40 Myr ago. The initial
+geotherm is equal to 26 uC km21
+. We use a thermal
+diffusivity equal to 30 km2 Myr21 and a 50-km
+vertical extent. The a priori erosion rates are set to
+0.35 60.1 mm yr21 in tectonically active mountain
+ranges and 0.01 60.01 mm yr21 in tectonically
+inactive regions. Italic font indicates tectonically
+active mountain ranges and boldface font indicates
+glaciated ranges mentioned in the text.
+RESEARCH LETTER
+424 | NATURE | VOL 504 | 19/26 DECEMBER 2013
+©2013 Macmillan Publishers Limited. All rights reserved
+in spite of steady convergence rates21. In the past 2 Myr, very large
+changes in erosion rates are observed at latitudes above 30u (for
+example, the European Alps, Patagonia, Alaska, the South Island of
+New Zealand and the Coast Mountains of British Columbia). These
+areas are highly variable in their tectonic activity, but they have all
+been glaciated in the past few million years. This further suggests that
+glacial erosion has played an important part globally.
+Collapsing erosion rates in mountainous areas to a median and
+variance over each 2-Myr time interval (Fig. 3) reveals an increase in
+mountain erosion rates since about 6 Myr ago, by nearly a factor of two
+for the Pleistocene compared to the Pliocene. This change shows a clear
+temporal correspondence with further cooling and increased amplitude of glacial cycles, as indicated by the global compilation of benthic
+foraminifera d18O measurements11, which serve as a proxy for reconstructing global climate fluctuations. Such a short-term shift in erosion
+rates must be climate-driven, given that a global acceleration in tectonic activity is unlikely1,2.
+The global increase in erosion has been attributed primarily to enhanced
+climate variability during the Late Cenozoic era and the Pliocene–
+Pleistocene epoch1,2. Such variability may play a part in low-latitude
+regions where fluvial erosion dominates. Recent modelling and observational studies suggest that erosion can be promoted by an increase in
+both mean runoff and discharge variability22,23. However, our inversion
+of thermochronometric data does not have enough resolving power
+to reveal large changes in erosion rates in areas that are both fluvialdominated and tectonically inactive. In terms of the effects of glaciers
+and ice caps on erosion rates, strong nonlinear feedbacks exist between
+glacial erosion, landscape hypsometry, net mass ice balance, climate
+and tectonics, all of which make attributing an increase of erosion mainly
+to climatic oscillations less obviously justifiable. In fact, modelling efforts
+have shown that glacial erosion predominantly increases in response to
+increased ice accumulation area owing to enhanced climate cooling24,25,
+surface uplift or both25. Although repeated alteration between fluvial
+and glacial processes may have played a part1,2, the pronounced cooling
+during the Pliocene–Pleistocene would be sufficient to induce an
+increase of erosion rates in glaciated mountain regions.
+Our observations establish that the rates at which mountainous
+landscapes have eroded increased globally during the Late Cenozoic
+and that this increase correlates with further cooling and an increase of
+the amplitude of climate cycles. This effect is observed not only in
+tectonically active mountain ranges, but also in relatively inactive orogens that have experienced glacial erosion (for example, the western
+Alps, the CoastMountains of British Columbia, Patagonia). This increase
+0
+10
+20
+30
+40
+10 11 12 13 14 15
+0
+20
+40
+60
+80
+100
+Relative frequency (%)
+Cumulative frequency (%)
+1
+3
+5
+7
+9
+11
+–70 to –50
+–50 to –30
+–30 to –10
+–10 to 10
+10 to 30
+30 to 50
+50 to 70
+Latitude (°)
+Erosion rates 2–0 Myr ago/erosion rates 6–4 Myr ago
+Erosion rates 2–0 Myr ago/
+erosion rates 6–4 Myr ago
+9876543210
+a
+b
+Figure 2 | Relative frequency and cumulative distributions of the ratio of
+erosion rates between 2–0 Myr ago and 6–4 Myr ago. a, Blue bars depict the
+relative frequency and the red line the cumulative distribution. The reported
+values are computed only at locations where the erosion rate is estimated and
+the resolution is higher than 0.25. Values higher than 1 indicate an increase
+of erosion rates and lower than 1 indicate a decrease. b, A box-and-whisker
+plot of the data used in this calculation distributed over latitude (using 20u
+intervals). The red line in each box is the median, the edges of the box are the
+25th and 75th percentiles, the whiskers extend to the most extreme data points
+not considered outliers, and outliers are plotted as red dots.
+Erosion rate (mm yr–1)
+Time (Myr)
+δ 018 (‰ VPDB)
+–160º –120º –80º –40º 0º 40º 80º 120º 160º 180º
+–60º
+–40º
+–20º
+0º
+20º
+40º
+60º
+0.40.60.81.0
+Resolution
+2
+3
+4
+5
+012345678
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+a
+b
+Longitude
+Latitude
+Figure 3 | Mountain erosion rates and d18O measurements during the Late
+Cenozoic era. a, Resolution is higher than 0.25 for the past 2 Myr. b, Erosion
+rate is computed at locations shown in a. The median (black line) and standard
+deviation (grey area) are estimated from the distributions of erosion rates
+over each 2-Myr time interval. (There is no weighting correction for areal
+coverage, except from using the solution at the grid points; see Methods.) The
+blue line depicts the rawd18O data compilation11, whereas the red line corresponds
+to the moving average. VPDB, the Vienna Pee-Dee belemnite standard.
+LETTER RESEARCH
+19/26 DECEMBER 2013 | VOL 504 | NATURE | 425
+©2013 Macmillan Publishers Limited. All rights reserved
+has global implications under the assumption that mountains dominate
+global sediment production9
+. Recently, the authors of ref. 26 suggested
+that mountains have less of a role in erosion than do flat terrains.
+However, they derived and used a biased relationship between slope
+and denudation that led to an underestimation of sediment production
+from steep terrains (J. K.Willenbring, personal communication, 2013).
+Furthermore, our inferred increase in the Late Cenozoic erosion rates
+supports an erosional feedback on climate, that is, the carbon dioxide
+(CO2) cycle and its connections to Pliocene–Pleistocene cooling. Late
+Cenozoic cooling has been related to decreasing atmospheric CO2,
+including a sharp drop in CO2 at about 3 Myr ago (refs 27 and 28).
+Two main mechanisms linked to increased erosion could contribute to
+this CO2 drawdown. First, an increase in physical erosion could lead to
+increased silicate weathering, which serves as a CO2 sink (see ref. 29,for
+example), although some authors have recently argued that weathering
+is not necessarily associated with physical erosion30,31. Second, burial of
+terrestrial organic carbon31 can be very efficient at sequestering CO2 in
+the ocean. This process is clearly correlated with physical erosion rate32
+and may explain the tight temporal connection we observe between a
+change in climate and erosion. Either or both of these mechanisms
+could result in a strong positive feedback between climate and erosion,
+in which carbon dioxide removal from the atmosphere is enhanced by
+erosion, thereby promoting cooling.
+METHODS SUMMARY
+Inversion of thermochronological data. We use the method developed by ref. 8
+to invert thermochronometric data sets. It exploits the information contained in
+both age–elevation profiles and multi-thermochronometric systems strategies. In
+this approach, the depth to the closure temperature is an integral of erosion rate
+from the thermochronometric age to the present day. This closure depth is computed using a one-dimensional thermal model combined with a spectral solution
+that accounts for the effects of topography on the isotherms. Erosion rate is parameterized as a piecewise constant function over fixed time intervals. A thermochronometric ageis thus represented by a linear equation, and a suite of nthermochronometric
+ages becomes a linear system of equations:
+AeN
+5 zc (1)
+where zc is a vector of length n describing the different closure depths, e
+N
+is a vector
+of unknown erosion rates and A is a sparse matrix whose components have units
+of time. To solve these independent equations, we impose a condition that erosion
+rates are correlated in space by defining an a priori covariance matrix, C. This
+matrix is constructed using the separation distance d between the ith and jth data
+points and an exponential correlation function:
+Cij~s2
+e e{d
+l ð2Þ
+where l is a specified correlation length that we fix equal to 30 km. The a priori
+variance for the erosion rate, s2
+e , serves primarily as a weighting factor. In turn, the
+maximum likelihood estimate for the erosion rate, e
+N
+, is given by:
+e
+N
+5 e
+N
+pr 1 CAT
+(ACAT 1 Ce)
+21
+(zc 2 AeN
+pr) (3)
+where e
+N
+pr is the a priori expected value of the erosion rate and Ce is a diagonal
+matrix containing the estimated data uncertainty. We calculated a parameter
+resolution matrix, R, as:
+R~CAT (ACATzCe)
+{1
+A ð4Þ
+which permits us to establish when changes in erosion rates are well resolved. This is
+integrated across the spatial dimension. Results at data locations are then interpolated
+on a regular grid for visualization and to reduce weight due to the sampling density.
+Online Content Any additional Methods, Extended Data display items and Source
+Data are available in the online version of the paper; references unique to these
+sections appear only in the online paper.
+Received 16 June; accepted 13 November 2013.
+1. Zhang, P., Molnar, P. & Downs, W. R. Increased sedimentation rates and grain sizes
+2–4 Myr ago due to the influence of climate change on erosion rates. Nature 410,
+891–897 (2001).
+2. Molnar, P. Late Cenozoic increase in accumulation rates of terrestrial sediment:
+how might climate change have affected erosion rates? Annu. Rev. Earth Planet. Sci.
+32, 67–89 (2004).
+3. Schumer, R. & Jerolmack, D. J. Real and apparent changes in sediment deposition
+rates through time. J. Geophys. Res. 114, F00A06 (2009).
+4. Willenbring, J. K. & von Blanckenburg, F. Long-term stability of global erosion rates
+and weathering during late-Cenozoic cooling. Nature 465, 211–214 (2010).
+5. von Blanckenburg, F. The control mechanism of erosion and weathering at basin
+scale from cosmogenic nuclides in river sediments. Earth Planet. Sci. Lett. 237,
+462–479 (2005).
+6. Whipple, K. X. The influence of climate on the tectonic evolution of mountain belts.
+Nature Geosci. 2, 97–104 (2009).
+7. Champagnac, J.-D., Molnar, P., Sue, C. & Herman, F. Tectonics, climate, and
+mountain topography. J. Geophys. Res. 117, B02403 (2012).
+8. Fox, M., Herman, F., Willett, S. D. & May, A. D. A linear inversion method to infer
+exhumation rates in space and time from thermochronometric data. Earth Surf.
+Dynam. Discuss. 1, 207–259 (2013).
+9. Milliman, J. D. & Syvitski, J. P. M. Geomorphic/tectonic control of sediment
+discharge to the ocean: the importance of small mountainous rivers. J. Geol. 100,
+525–544 (1992).
+10. Shackleton, N. J. & Opdyke, N. D. Oxygen isotope and paleomagnetic evidence for
+early Northern Hemisphere glaciation. Nature 270, 216–219 (1977).
+11. Zachos, J., Pagani, M., Sloan, L., Thomas, E. & Billups, K. Trends, rhythms, and
+aberrations in global climate 65 Ma to present. Science 292, 686–693 (2001).
+12. Shuster, D. L., Ehlers, T. A., Rusmore, M. E. & Farley, K. A. Rapid glacial erosion at 1.8
+Ma revealed by 4
+He/3
+He thermochronometry. Science 310, 1668–1670 (2005).
+13. Berger, A. L. et al. Quaternary tectonic response to intensified glacial erosion in an
+orogenic wedge. Nature Geosci. 1, 793–799 (2008).
+14. Vernon, A. J., van der Beek, P. A., Sinclair, H. D. & Rahn, M. K. Increase in late
+Neogene denudation of the European Alps confirmed by analysis of a fission track
+thermochronology database. Earth Planet. Sci. Lett. 270, 316–329 (2008).
+15. Thomson, S. N. et al. Glaciation as a destructive and constructive control on
+mountain building. Nature 467, 313–317 (2010).
+16. Shuster, D. L., Cuffey, K. M., Sanders, J. W. & Balco, G. Thermochronometry reveals
+headward propagation of erosion in an alpine landscape. Science332,84–88 (2011).
+17. Valla, P. G. et al. Late Neogene exhumation and relief development of the Aar and
+Aiguilles Rouges massifs (Swiss Alps) from low-temperature thermochronology
+modeling and 4
+He/3
+He thermochronometry. J. Geophys. Res. 117, F01004 (2012).
+18. Steer, P., Huismans, R. S., Valla, P. G., Gac, S. & Herman, F. Bimodal Plio-Quaternary
+glacial erosion of fjords and low-relief surfaces in Scandinavia. Nature Geosci. 5,
+635–639 (2012).
+19. Reiners, P. W. & Brandon, M. T. Using thermochronology to understand orogenic
+erosion. Annu. Rev. Earth Planet. Sci. 34, 419–466 (2006).
+20. Montgomery, D. R. & Brandon, M. T. Topographic controls on erosion rates in
+tectonically active mountain ranges. Earth Planet. Sci. Lett. 201, 481–489 (2002).
+21. Thiede, R. C. & Ehlers, T. A. Large spatial and temporal variations in Himalayan
+denudation. Earth Planet. Sci. Lett. 371–372, 278–293 (2013).
+22. Lague, D., Hovius, N. & Davy, P. Discharge, discharge variability, and the bedrock
+channel profile. J. Geophys. Res. 110, F04006 (2005).
+23. DiBiase, R. A. & Whipple, K. X. The influence of erosion thresholds and runoff
+variability on the relationships among topography, climate, and erosion rate.
+J. Geophys. Res. 116, F04036 (2011).
+24. Pedersen, V. K. & Egholm, D. L. Glaciations in response to climate variations
+preconditioned by evolving topography. Nature 493, 206–210 (2013).
+25. Sternai, P., Herman, F., Valla, P. G. & Champagnac, J.-D. Spatial and temporal
+variations of glacial erosion in the Rhone valley (Swiss Alps): insights from
+numerical modeling. Earth Planet. Sci. Lett. 368, 119–131 (2013).
+26. Willenbring, J. K., Codilean, A. T. & McElroy, B. Earth is (mostly) flat: apportionment
+of the flux of continental sediment over millennial time scales. Geology 41,
+343–346 (2013).
+27. Seki, O. et al. Alkenone and boron-based Pliocene pCO2 records. Earth Planet. Sci.
+Lett. 292, 201–211 (2010).
+28. Bartoli, G., Ho¨nisch, B. & Zeebe, R. E. Atmospheric CO2 decline during the Pliocene
+intensification of Northern Hemisphere glaciations. Paleoceanography 26,
+PA4213 (2011).
+29. Raymo, M. E., Ruddiman,W. F. & Froelich, P. N. Influence of late Cenozoic mountain
+building on ocean geochemical cycles. Geology 16, 649–653 (1988).
+30. Moore, J., Jacobson, A. D., Holmden, C. & Craw, D. Tracking the relationship
+between mountain uplift, silicate weathering, and long-term CO2 consumption
+with Ca isotopes: southern Alps, New Zealand. Chem. Geol. 341, 110–127 (2013).
+31. West, A. J., Galy, A. & Bickle, M. Tectonic and climatic controls on silicate
+weathering. Earth Planet. Sci. Lett. 235, 211–228 (2005).
+32. Galy, V. et al. Efficient organic carbon burial in the Bengal fan sustained by the
+Himalayan erosional system. Nature 450, 407–410 (2007).
+Supplementary Information is available in the online version of the paper.
+Acknowledgements We thank J.-D. Champagnac and M. Brandon for discussions
+throughout the study. We also thank S. Jaccard and P. Molnar for their feedback on the
+manuscript and K. Huntington for her constructive review. The computations
+presented here were performed on the Brutus facility at ETH Zurich, Switzerland. F.H.
+was funded by SNF grant PP00P2_138956.
+Author Contributions F.H. designed the study and carried out the data interpretation.
+F.H., D.S., P.G.V., A.C., B.K. and T.A.E. contributed to compiling the data. All authors
+contributed to writing the paper.
+Author Information Reprints and permissions information is available at
+www.nature.com/reprints. The authors declare no competing financial interests.
+Readers are welcome to comment on the online version of the paper. Correspondence
+and requests for materials should be addressed to F.H. (frederic.herman@unil.ch).
+RESEARCH LETTER
+426 | NATURE | VOL 504 | 19/26 DECEMBER 2013
+©2013 Macmillan Publishers Limited. All rights reserved
+METHODS
+Inversion of thermochronological data. We use the method recently developed
+by ref. 8 to invert thermochronometric data sets. It exploits the information contained in both age–elevation profiles and multi-thermochronometric systems
+strategies. In this approach, we express the depth to the closure temperature as
+the integral of erosion rate from the thermochronometric age to present-day as:
+Ð
+t
+0
+e_(t)dt~zc ð1Þ
+where zc is the closure depth, t is the thermochronometric age and e_ the erosion
+rate.We wish to solve fore_, which can be achieved given that the depth of closure is
+estimated. To that end, we use a one-dimensional thermal model that solves the
+heat transfer equation using the finite difference method, which we combine with a
+spectral solution that accounts for the effects of topography on the shape of the
+isotherms33. The initial condition is a linear unperturbed geotherm. We then
+compute the depth of closure by extracting the cooling history of each sample
+and using Dodson’s approximation34. Both the temperature field and Dodson’s
+approximation depend on the solution (that is, estimated erosion rates), which
+implies that the problem is weakly nonlinear. We obtain the solution by direct
+iteration on the procedure we discuss below. Convergence occurs typically after a
+few iterations.
+To obtain a useful numerical solution for equation (1), we discretize the integral.
+It becomes a summation in which erosion rate is parameterized as a piecewise
+constant function over fixed time intervals. A thermochronometric age is thus
+represented by a linear equation, and a suite of n thermochronometric ages
+becomes a linear system of independent equations:
+AeN
+5 zc (2)
+where zc becomes a vector of length n describing the different closure depths,e
+N
+is a
+vector of unknown erosion rates and A is a sparse matrix whose components have
+units of time. This leads to an under-determined inverse problem, which can be
+solved by regularization (see ref. 35, for example). To that end, we impose the
+condition that erosion rates are correlated in space by defining an a priori covariance matrix, C. This covariance matrix is constructed for all time intervals using
+the horizontal distance d between the ith and jth data points, and an exponential
+correlation function:
+Cij~s2
+e e{d
+l ð3Þ
+where l is a specified correlation length that we fix equal to 30 km. The a priori
+variance for the erosion rate, s2
+e , serves primarily as a weighting factor. It is worth
+noting that this covariance matrix simply implies that samples close to each other
+must follow the same erosion history and that samples far apart may follow
+independent erosion histories.
+In turn, it can be shown that the solution to our inverse problem for the erosion
+rate e
+N
+is given by:
+e
+N
+5 e
+N
+pr 1 CAT
+(ACAT 1 Ce)
+21
+(zc 2 AeN
+pr) (4)
+where e
+N
+pr is the a priori expected value of the erosion rate and Ce is a diagonal
+matrix containing the estimated data uncertainty. This corresponds to the common
+least-squares methods (see page 66 of ref. 36). We note that if the distance between
+each sample becomes infinitely small, the solution corresponds to a piecewise
+linear regression over each time interval, as illustrated in great detail in ref. 8.
+This formal approach also has the advantage that it enables us to establish
+resolution by calculating the parameter resolution matrix, R:
+R~CAT (ACATzCe)
+{1
+A ð5Þ
+It provides us with a means of evaluating the correction to the prior model we
+obtain35. R is derived from the covariance we impose, the temporal discretization
+and the error in the data. The further away resolution is from identity, the worse
+the solution is. In this case, we are able to observe only a filtered version of the exact
+solution (pages 72–73 of ref. 36). For ease of visualization, we integrate R across the
+spatial dimension8
+. Results at data locations are then interpolated on a regular grid
+for visualization and to reduce weight due to the sampling density. The influence
+of various factors such as erosion rates are illustrated below.
+Data compilation. We compiled thermochronometric data from across the globe
+for four systems: apatite (U–Th)/He (AHe), apatite fission track (AFT), zircon (U–
+Th)/He (ZHe) and zircon fission track (ZFT), which have closure temperatures of
+approximately 70 uC, 110 uC, 180 uC and 250 uC, respectively19,37–40. The data were
+extracted from the literature, and complemented with unpublished fission-track
+ages, together making a total of 17,833 ages. A full reference list is provided in
+Supplementary Information and all thermochronometric data are shown in
+Extended Data Fig. 1. We note that most fission-track ages were determined using
+the recommended external-detector method41. If they were not reported in the
+original publication, elevations were interpolated from a digital elevation model
+using the SRTM data42 or Google Earth. We did not include track length measurements for the fission-track studies. This implies that we are likely to miss very
+recent changes in erosion rates, particularly in slowly eroding regions, that would
+be identified by a small population of long lengths. Further, track-length distributions are less discriminative in rapidly eroding terrains, because of associated
+generally young AFT ages. Furthermore, we are not trying to fit a single age but
+rather exploit the information contained in a sequence of ages from different
+thermochronometric systems and distributed with elevation8
+.
+Likewise, we did not include grain size for AHe and ZHe in our compilation.
+Grain size has an effect on He diffusion, because the size of the diffusion domain
+scales with grain dimensions (see refs 19 and 37 for example).Most grains analysed
+are typically about 60 mm (sphere-equivalent radius), or larger, to limit alphaejection correction43. Large grains (100–200 mm), may imply a closure temperature
+5u to 8u higher than for 60-mm grains37, which would lead to older measured
+cooling ages. Our inversion assumes a grain size of 60 mm, so we may underestimate the travel distance between closure depth and the surface. This does not affect
+our main conclusions because, in the worst-case scenario, the inferred increase
+would merely be undervalued.
+The compiled data carry a degree of uncertainty that varies between publications. Methods used to estimate this uncertainty are rarely described. To avoid
+problems raised by the different methods and the associated level of analytical
+precision, we prescribed uniform uncertainties that are uncorrelated with ages in
+the inversion (note that using the analytical uncertainties does not modify our
+conclusions). More importantly, the inversion method we use enables us to treat
+data of mixed quality and uneven spatial distribution and establish resolution. In
+turn, it directly propagates the variance in the data into the model variance8,35,36,44.
+Sensitivity to prior erosion rates and initial geotherm. The erosion rate history
+we obtain using the linear inversion approach may depend on the choice of prior
+erosion rates (equation (4)). Although we may locally have some independent
+knowledge of erosion rates, in most cases we do not have any prior information
+other than from thermochronometric data. Therefore, we performed several inversions using different prior erosion rates. The results are shown in Extended Data
+Fig. 2a. They show that our inferred increase in erosion rates is weakly dependent
+on the prior erosion rates, further supporting the robustness of our results. It is also
+worth pointing out that choosing a prior erosion rate that is substantially different
+from the actual solution will lead to a wrong solution (not illustrated).
+The linear inversion method includes a solution of the transient heat transfer
+equation (Methods8
+), which defines the depth of closure isotherms. As a result, the
+choice of thermal parameters may have an impact on the erosion rate history8,19,45–47,
+particularly during the latest stage of exhumation. Therefore, we tested several
+inversions using different initial near-surface geothermal gradients. The results are
+shown in Extended Data Fig. 2b, which shows that one needs unrealistically high
+geothermal gradients (over 80 uC km21
+) everywhere to erase the increase in erosion rates we observe.
+Limitations of using thermochronometry to derive changes in erosion rates.
+Thermochronology has several limitations for estimating erosion rates and how
+they vary with time. First, erosion rates inferred from a single thermochronometric
+age depend on the assumed geotherm, which defines the depth of the closure isotherm. In most cases, the geotherm is poorly known and a thermal model must be
+used, which may have an influence on the derived erosion rate, as discussed above.
+This can be circumvented, to some extent, by collecting samples at different elevations. In this case, the slope of the age–elevation relationship gives an estimate of
+the erosion rate at the timescale fixed by the measured ages8,19,45–49, at least when
+heating advection, and therefore erosion rate, is not too large50,51. As explained in
+detail in ref. 8, the inversion scheme we adopt takes advantage of this, accounting
+for the effects of heat advection. Furthermore, we show above that one needs an
+anomalously high near-surface geothermal gradient to erase the global increase in
+erosion rates.
+Second, a thermochronometric age only provides an estimate of the erosion rate
+integrated over the time defined by its apparent age8,19,45–47. Given that our objective is to detect changes in erosion rates through time, it is crucial to combine
+systems of different closure temperatures, in addition to age–elevation profiles.
+Unfortunately, disparate data sets have been collected for each system. To assess
+potential problems rising from the compiled data, including paucity of some data
+sets, we predict ages by running simulations using a one-dimensional thermal
+model50 with a prescribed erosion history that varies over 2-Myr time intervals.
+We then couple this thermal model with a nonlinear inversion algorithm, namely
+the Neighbourhood algorithm52,53 (see ref. 54 for details), to investigate whether we
+can recover the erosion histories using different thermochronometric systems. For
+LETTER RESEARCH
+©2013 Macmillan Publishers Limited. All rights reserved
+completeness, we also use the linear inversion that we utilize for the global inversion. The results are presented in Extended Data Fig. 3.
+The tests consist offour different simple erosion histories. In the first two (Extended
+Data Fig. 3a and b), we impose a background erosion rate of 0.1 mm yr21 between
+20 Myr ago and 2 Myr ago, followed by an increase in erosion rate to 0.9 mm yr21
+(Extended Data Fig. 3a) and 1.8 mm yr21 (Extended Data Fig. 3b) over the past
+2 Myr. For the two other tests (Extended Data Fig. 3c and d), we use a background
+erosion rate of 0.9 mm yr21 between 20 Myr ago and 2 Myr ago that increases to
+1.3 mm yr21 (Extended Data Fig. 3c) and 1.8 mm yr21 (Extended Data Fig. 3d).
+The vertical extent of the one-dimensional model is 30 km, with a bottom temperature of 900 uC, a thermal diffusivity of 30 km2 Myr21
+, no radiogenic heat
+production and an unperturbed linear geotherm as the initial conditions. For each
+erosion history, we run three subsequent inversions: (1) an optimal case in which
+we have access to the four thermochronometric systems (AHe, AFT, ZHe and ZFT
+data), (2) a second case with access only to AFT and AHe data, and (3) a last
+scenario with AFT data only (which represents the largest amount of data currently
+available, Extended Data Fig. 1). The results are presented in Extended Data Fig. 3.
+Both approaches lead to similar erosion rate histories, keeping in mind that the
+solution of the linear inversion depends on the choice of prior erosion rates8
+.
+The inversion results show that erosion rates may be underestimated towards
+the present and overestimated back in the past when the background rates are low
+(0.1 mm yr21
+) and the change in erosion rate is not large (Extended Data Fig. 3a
+and b). Furthermore, a robust increase is more likely to be found at locations where
+data from several thermochronometric systems are available. These results imply
+that we may observe a smoother erosion history when erosion rates are too low, the
+increase is too small or where we do not have access to several thermochronometric systems. Therefore, regions where we observe a robust increase during the
+Late Cenozoic correspond mainly to areas where AFT, AHe or more data exist.
+Importantly, the results also demonstrate that we are more likely to miss an increase
+in erosion than to infer that one does not exist; the latter has been suggested to be a
+problem when using sediment accumulation curves as a proxy for erosion3,4.
+In regions where background erosion rates are high (around 1 mm yr21 and
+higher), we obtain good constraints on erosion rates in the past 2 Myr, but we may
+have poor constraints on erosion rates in the past if we do not have access to
+higher-temperature systems (Extended Data Fig. 3c and d). This implies that it
+may be difficult to constrain erosion rates further back in time in tectonically active
+areas with sustained very high rates of erosion.
+Resolution sensitivity to exhumation rates. Here we illustrate how resolution
+(Methods and ref. 8) may be used to determine under which conditions one is
+likely to be able to detect an increase of erosion. We focus on some samples from
+Patagonia15. This region was chosen because it exhibits a large south-to-north
+gradient in ages, which led the authors of ref. 15 to infer an increase of erosion
+in response to glaciation in northern Patagonia only. The suite of available AHe,
+AFT and ZFT data is shown in Extended Data Fig. 1 and 4. We performed two
+inversions, using the same parameters as for the global inversion. The first inversion includes all the available data and the second includes ZFT ages only.
+Thefirst inversion reveals higher erosion rates in northern Patagonia that increase
+towards the present (upper panels in Extended Data Fig. 5),which corroborates the
+interpretation of ref. 15. Furthermore, the associated resolution increases towards
+the present (lower panels in Extended Data Fig. 5). This is important because it
+implies that resolution degrades backwards in time, as already illustrated for the
+Dabie Shan example8
+. As a result, we are more likely to resolve changes in erosion
+rates towards the present than in the past. This is partly why we concentrated only
+on the recent erosion history (the past 8 Myr), although our global data set spans
+ages from a few hundred thousand years to several hundred million years.
+In addition, we observe low erosion rates in southern Patagonia. In this part of
+the range, no changes in erosion rates can be resolved, as quantified by the resolution. This is simply because the ages are too old. These results arefurther illustrated
+with the second inversion (Extended Data Fig. 6), which includes only ZFT ages. In
+this case, most of the ages are too old to reveal a robust change in erosion rates. We
+note that it does not necessarily mean that there was no change in erosion rates.
+Instead, it may be that the changes were not large enough to be resolved. This is a
+similar situation to the high-northern-latitude regions, such as western Scandinavia,
+Baffin Island or Greenland, even though it is clear that glaciation significantly
+affected these landscapes, as we discuss in the main text. This problem is inherent
+to thermochronometry and cannot be changed. The advent of recent techniques
+that give us access to lower temperatures, such as 4
+He/3
+He (ref. 55) or luminescence
+thermochronometry56,57, may help us to resolve this issue in the future.
+Method sensitivity to changes in exhumation trajectory. Here we assess the
+potential impact of changes in exhumation trajectory. We present three examples
+of simulations with exhumation on a thrust fault with a dip angle of 30u and a 25-
+km-deep flat de´collement. The velocity field is defined according to the fault-bend
+folding method58. We first run a three-dimensional thermokinematic model54 to
+predict AHe, AFT, ZHe and ZFT ages. The models are run for 20 Myr. The vertical
+extent of the model is 30 km, the horizontal extent is 120 km long and 60 km wide
+and includes some topography that remains steady (Extended Data Fig. 7). We use
+a bottom temperature of 750 uC, a thermal diffusivity of 30 km2 Myr21
+, no radiogenic heat production and an unperturbed linear geotherm as the initial condition.
+Pre-collisional ages are set to 100Myr ago. We then select 70 ages randomly and
+run the linear inversion that we use for the global inversion. The first and second
+examples have slip rates of 5 mm yr21 and 1 mm yr21
+, respectively. The third one
+has a constant slip rate of 1 mm yr21 that increases to 5 mm yr21 in the past 2 Myr.
+The results are shown in Extended Data Fig. 8. First, they illustrate that one
+cannot constrain erosion rates where the ages are not reset (in general, that is over
+20Myr ago). The scenario with an erosion rate of 5 mm yr21 is an example in which
+we infer the correct rates between 2 Myr ago and 0 Myr ago but underestimate rates
+between 6 Myr ago and 4 Myr ago (Extended Data Fig. 8a), as discussed above with
+the one-dimensional model. However, the resolution is low. In such a situation, the
+inferred increase would be excluded for our global interpretation. In contrast, if
+rates have remained relatively low or have increased since 2 Myr ago (Extended
+Data Fig. 8b and c), the resolution is high enough from 6 Myr ago to 0 Myr ago for
+us to detect an increase of erosion rates, which is again entirely consistent with the
+one-dimensional examples shown above.
+33. Mancktelow, N. S. & Grasemann, B. Time-dependent effects of heat advection and
+topography on cooling histories during erosion. Earth Planet. Sci. Lett. 270,
+167–195 (1997).
+34. Dodson, M. H. Closure temperatures in cooling geochronological and petrological
+systems. Contrib. Mineral. Petrol. 40, 259–274 (1973).
+35. Aster, R., Borchers, B. & Thurber, C. Parameter Estimation and Inverse Problems 2nd
+edn (Elsevier, 2012).
+36. Tarantola, A. Inverse Problem Theory (SIAM, 2005).
+37. Farley, K. A. Helium diffusion from apatite: general behavior as illustrated by
+Durango fluorapatite. J. Geophys. Res. 105, 2903–2914 (2000).
+38. Gleadow, A. J. W. & Duddy, I. R. A natural long-term track annealing experiment for
+apatite. Nucl. Tracks Radiat. Meas. 5, 169–174 (1981).
+39. Green, P. F. et al. Thermal annealing of fission tracks in apatite IV: quantitative
+modelling techniques and extension to geological timescales. Chem. Geol. 79,
+155–182 (1989).
+40. Hurford, A. J. Uplift and cooling pathways derived from fission track analysis and
+mica dating: a review. Geol. Rundsch. 80, 349–368 (1991).
+41. Hurford, A. J. & Green, P. F. A users’ guide to fission track dating calibration. Earth
+Planet. Sci. Lett. 59, 343–354 (1982).
+42. Farr, T. G. et al. The Shuttle Radar Topography Mission. Rev. Geophys. 45, RG2004
+(2007).
+43. Farley, K. A., Wolf, R. & Silver, L. The effect of long alpha-stopping distances on
+(U-Th)/He dates. Geochim. Cosmochim. Acta 60, 4223–4229 (1996).
+44. Menke, W. Geophysical Data Analysis: Discrete Inverse Theory MATLAB edn, 3rd edn
+(Elsevier, 2012).
+45. Ehlers, T. A. & Farley, K. A. Apatite (U-Th)/He thermochronometry: methods and
+applications to problems in tectonic and surface processes. Earth Planet. Sci. Lett.
+206, 1–14 (2003).
+46. Ehlers, T. A. Crustal thermal processes and thermochronometer interpretation.
+Rev. Mineral. Geochem. 58, 315–350 (2005).
+47. Braun, J., van der Beek, P. A. & Batt, G. Quantitative Thermochronology: Numerical
+Methods for the Interpretation of Thermochronological Data (Cambridge Univ. Press,
+2006).
+48. Wagner, G. A. & Reimer, G. M. Fission track tectonics: the tectonic interpretation of
+fission track apatite ages. Earth Planet. Sci. Lett. 14, 263–268 (1972).
+49. Gallagher, K., Stephenson, J., Brown, R., Holmes, C. & Fitzgerald, P. Low
+temperature thermochronology and modeling strategies for multiple samples. 1:
+Vertical profiles. Earth Planet. Sci. Lett. 237, 193–208 (2005).
+50. Mancktelow, N. & Grasemann, B. Time-dependent effects of heat advection and
+topography on cooling histories during erosion. Tectonophysics 270, 167–195
+(1997).
+51. Braun, J. et al. Quantifying rates of landscape evolution and tectonic processes by
+thermochronology and numerical modeling of crustal heat transport using
+PECUBE. Tectonophysics 524–525, 1–28 (2012).
+52. Sambridge, M. Geophysical inversion with a neighbourhood algorithm—I.
+Searching a parameter space. Geophys. J. Int. 138, 479–494 (1999).
+53. Sambridge, M. Geophysical inversion with a neighbourhood algorithm—II.
+Appraising the ensemble. Geophys. J. Int. 138, 727–746 (1999).
+54. Herman, F. et al. Exhumation, crustal deformation, and thermal structure of the
+Nepal Himalaya derived from the inversion of thermochronological and
+thermobarometric data and modeling of the topography. J. Geophys. Res. 115,
+B06407 (2010).
+55. Shuster, D. L., Farley, K. A., Sisteron, J. M. & Burnett, D. S. Quantifying the diffusion
+kinetics and spatial distributions of radiogenic 4
+He in minerals containing protoninduced 3
+He. Earth Planet. Sci. Lett. 217, 19–32 (2004).
+56. Guralnik, B. et al. Effective closure temperature in leaky or saturating
+thermochronometers. Earth Planet. Sci. Lett. 384, 209–218 (2013).
+57. Li, B. & Li, S.-H. Determining the cooling age using luminescencethermochronology. Tectonophysics 580, 242–248 (2012).
+58. Suppe, J. Geometry and kinematics of fault-bend folding. Am. J. Sci. 283, 684–721
+(1983).
+RESEARCH LETTER
+©2013 Macmillan Publishers Limited. All rights reserved
+Extended Data Figure 1 | Compilation of thermochronometric ages. See the source data and associated references in the Supplementary Information for
+sample locations, elevations, ages and standard error measurements.
+LETTER RESEARCH
+©2013 Macmillan Publishers Limited. All rights reserved
+ep
+= 0.70 ± 0.1 mm yr-1
+ep
+= 0.35 ± 0.1 mm yr-1
+ep
+= 1.00 ± 0.3 mm yr-1
+a
+G0
+= 52 °C km-1
+G0
+= 26 °C km-1
+G0
+= 78 °C km-1
+b
+Erosion rate (mm yr-1) 0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+012345678 0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+Erosion rate (mm yr-1)
+012345678
+Time (Myr) Time (Myr)
+Extended Data Figure 2 | Global inversion sensitivity tests. a, Same as
+Fig. 3b, but using different prior erosion rates eP (equation (4) in Methods),
+as indicated on the figure. b, Same as Fig. 3b, but using different initial nearsurface unperturbed geothermal gradients G0. See text for details.
+RESEARCH LETTER
+©2013 Macmillan Publishers Limited. All rights reserved
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+Erosion rate (mm yr-1)
+10 02468
+Time (Myr)
+10 02468
+Time (Myr)
+10 02468
+Time (Myr)
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+Erosion rate (mm yr-1)
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+Erosion rate (mm yr-1)
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+Erosion rate (mm yr-1)
+4 systems:
+AHe, AFT,
+ZHe, ZFT
+2 systems:
+AHe, AFT
+1 system:
+AFT
+True solution
+Most likely
+solution
+AHe= 1.01 ± 0.1; AFT= 2.28 ± 0.2; ZHe= 77.0 ± 10.; ZFT= 98.2 ± 10.
+AHe= 3.83 ± 0.4; AFT= 15.1 ± 1.5; ZHe= 98.3 ± 10.; ZFT= 98.5 ± 10.
+AHe= 1.25 ± 0.1; AFT= 2.2 ± 0.2; ZHe= 5.59 ± 0.6; ZFT= 11.2 ± 1.1
+AHe= 0.85 ± 0.1; AFT= 1.43 ± 0.2; ZHe= 4.2 ± 0.4; ZFT= 6.8 ± 0.7
+a
+b
+c
+d
+Extended Data Figure 3 | One-dimensional inversion results for four
+different erosion histories. The red curve is the erosion history used to
+generate synthetic thermochronometric ages. The ages (Myr) for each test are
+indicated on the figure. The black lines are the most likely solution obtained
+from the Bayesian inversion. The grey areas represent the 1s uncertainty
+around the most likely erosion rate solution. The blue lines are the results of the
+linear inversion (Methods and ref. 8). The panels on the left depict inversion
+results using all four systems; the middle panels use AHe and AFT only; and the
+right panels use AFT only. See text for details.
+LETTER RESEARCH
+by tectonic and climatic changes are required.
+In the European Alps, major Pliocene-Quaternary tectonic and climatic processes, including widespread glaciation (e.g. Penck, 1905;
+Preusser et al., 2010) and various mechanisms of lithospheric strain
+(e.g. Argand, 1916; Schmid et al., 2017), have been documented for
+over a century, contributing much of our knowledge about orogenic
+processes in general. Recent works called upon various combinations of
+“surface” or “deep-seated” forces related to Pliocene-Quaternary climatic or tectonic events in order to explain current measurements of
+elevation changes in time (e.g. Delacou et al., 2004; Sue et al., 2007;
+Serpelloni et al., 2013; Walpersdorf et al., 2015; Nocquet et al., 2016).
+However, the relative contributions of surface or deep-seated forces to
+the vertical displacement rate as well as the relationships between the
+vertical and horizontal components of motion are still elusive.
+Here, we present an integrated characterization of the processes
+controlling the current Alpine surface vertical displacement rate. We
+first provide a reference map of Global Positioning System (GPS)
+measurements of the current Alpine vertical displacement rate (Section
+2). Then, we review the surface mass redistribution-related or tectonicrelated processes that may affect the current vertical motion of the Alps
+and compare previously proposed and new models of their relative
+contributions to the observed surface vertical displacement rate. In the
+spirit of a review, we report proposed magnitudes of vertical displacement rate for each mechanism (Section 3). However, strong assumptions are unavoidable in modeling a complex system such as the
+Alps, and the uncertainty within models, rarely quantified, is likely
+larger than the observed vertical displacement rate. We thus caution the
+reader that any consideration regarding modelled magnitudes in this
+section should be taken as our interpretative assessment. Instead,
+comparisons between and considerations regarding the spatial patterns
+of each contribution (Section 4) should be seen as likely more robust.
+Our main conclusion (Section 5) is that current Alpine vertical motion is
+unlikely to be related to an individual process, but rather is the result of
+multiple contributions adding up differently along and across the Alpine strike.
+2. Measurements of ongoing Alpine vertical displacement rates
+2.1. Overview
+Continuous Global Navigation Satellite System (GNSS) networks
+provide increasingly detailed information on the three-dimensional
+surface velocity field in the Euro-Mediterranean area. Serpelloni et al.
+(2013) provided a first synoptic view of vertical ground motion rates
+over the great Alpine region, integrating data from several GNSS networks. Levelling data have long revealed the uplift rates of the Swiss
+Alps with respect to the foreland (Schaer and Jeanrichard, 1974; Gubler
+et al., 1981). Despite a few disagreements, independent analyses of the
+GNSS and GNSS/levelling datasets spanning decades to a century show
+overall consistency in the main trends (in terms of location and magnitude) of the relative uplift rates (Nocquet et al., 2016).
+Here we update the solution of Serpelloni et al. (2013) using vertical
+GPS data up to the end of 2016 at 555 stations (while Serpelloni et al.
+(2013) processed data between 1998 and 2011 at 278 stations), with an
+average observational time span of 7.5 years (minimum 2.5 and maximum 23 years) (Fig. 1). The position time-series have been obtained
+adopting a three-step procedure: 1) raw phase data reduction, 2)
+combination of loosely constrained network solutions and reference
+frame definition and 3) time-series analysis, including velocity estimates and spatial filtering of common mode errors. The raw GPS observables have been analysed using the GAMIT/GLOBK software
+package version 10.6 (Herring et al., 2015), adopting standards defined
+in the framework of the IGS “Repro2 campaign” (http://acc.igs.org/
+reprocess2.html). Loosely constrained solutions have been combined
+with the global solution of the IGS network by the MIT, realizing a
+global reference frame by applying generalized constraints (Dong et al.,
+1998). We define the reference frame by minimizing the velocities of
+the IGS08 core stations (http://igscb.jpl.nasa.gov), while estimating a
+seven-parameter transformation with respect to the GPS realization of
+the ITRF2008 frame (Altamimi et al., 2011). In the third step, we
+analyse the position time series in order to estimate and correct offsets
+due to stations equipment changes, while simultaneously estimating
+annual and semi-annual periodic signals and a linear velocity term. For
+additional details on the GPS data processing and post-processing the
+reader is referred to Serpelloni et al. (2018). The GPS velocity field in
+Switzerland is augmented by using an additional GPS velocity field
+from the AGNES (Automated GNSS Network for Switzerland) network,
+made available by Swisstopo (http://pnac.swisstopo.admin.ch). Velocities from this solution have been aligned to ours using sites in
+common between the two databases, while estimating a 6-parameters
+transformation (Serpelloni et al., 2013; Serpelloni et al., 2016). Prior to
+this operation, the velocity uncertainties provided by the AGNES solution (representing the formal uncertainty arising from rigorous adjustment using original daily normal equations) are increased by a
+factor of 15 since they underestimate the true value by a similar amount
+(E. Brockmann, 2018, personal communication). Vertical GPS/GNSS
+velocities are provided in Table S1. In the Western Alps, vertical velocities are consistent with those of Nocquet et al. (2016) and
+Walpersdorf et al. (2015).
+In Fig. 1a, we plot the data and an interpolated surface together
+with the horizontal velocity field modelled by Serpelloni et al. (2016).
+We use only GPS/GNSS data, since these alone provide homogeneous
+coverage over the Alps. However, Fig. S1 shows that our preferred solution has reasonably good spatial agreement with levelling data
+(Schlatter et al., 2005). The interpolated surface bears a degree of uncertainty and probabilistic analyses suggest more conservative magnitudes (Husson et al., 2018), but the main pattern is robust.
+2.2. Data interpretation
+Since at least the Oligocene, the Northern Apennine and Dinaride
+orogenic belts are characterized by continental subduction to the SW
+under the Apennines and to the NE under the Dinarides. In addition, the
+Apennine slab is rolling back to the NE. Both systems affect the Alpine
+structures at their terminations (e.g. Ratschbacher et al., 1991;
+Rosenbaum and Lister, 2004; Schmid et al., 2004; Vignaroli et al., 2008;
+Bennett et al., 2008; Mitterbauer et al., 2011; Šumanovac, 2015; Handy
+et al., 2015). Today's Alpine horizontal deformation is consistent with
+the kinematics imposed by these boundary conditions, with AdriaEuropean motion described by a counterclockwise rotation around an
+Euler pole positioned in the northwestern Po plain (e.g. Anderson and
+Jackson, 1987; Collombet et al., 2002; Battaglia et al., 2004; Nocquet
+and Calais, 2004; D'Agostino et al., 2008; Rolland et al., 2012). The
+resulting horizontal strain involves shortening in the Eastern Alps,
+dextral shear in the Central Alps, and no deformation, or very slow
+horizontal extensional deformation in the Western Alps (e.g. Slejko
+et al., 1989; Doglioni, 1990; Sue et al., 2007; Walpersdorf et al., 2015;
+Serpelloni et al., 2016). The geodetic vertical velocity measurements
+show that the Western Alps around the Vanoise-Zermatt area and
+Central Alps near Davos are currently uplifting at maximum local rates
+of ~2 mm/a and ~2.5 mm/a, respectively, while values gradually decrease to zero and become negative toward the Eastern and SouthWestern Alps (Fig. 1a,b). Regions undergoing uplift rates > 1 mm/a
+belong almost exclusively to the Alpine arc and are systematically located within the Last Glacial Maximum (LGM) ice extent (Ehlers and
+Gibbard, 2004). The analysis of the structures that accommodate the
+present-day surface vertical displacement rates from our preferred solution is beyond the scope of this study. However, major Alpine tectonic
+lineaments often wrap around, rather than cut through, domains with
+distinct uplift rates from our solution. For instance, the fast uplifting
+Central Alpine sector is bound by the Periadriatic, Giudicarie and
+exceptions to this correlation exist. For instance, topographic loads with
+wavelengths shorter than ~100–200 km do not necessarily cause the
+sinking of the crust into the mantle, but may rather produce lithospheric flexure over wide areas (e.g. Watts, 2009). In addition, the
+mantle flow actively modulates the surface topography through vertical
+tractions (e.g. Hager et al., 1985; Cazenave et al., 1989; Gurnis, 1993;
+Le Stunff and Ricard, 1995; Christensen, 1998; Lithgow-Bertelloni and
+Silver, 1998; Braun, 2010; Husson et al., 2014; Sternai et al., 2016a;
+Gvirtzman et al., 2016). This latter contribution to surface elevation
+changes is often referred to as “dynamic” to emphasize the forcing by
+moving mass anomalies, as opposed to the quasi-static mass anomalies
+(e.g. topographic loads) that control the amount of “isostatic” topography. Whether or not the term “dynamic” includes topographic effects due to processes involving the mantle lithosphere is controversial
+(e.g. Flament et al., 2013). Here, we only include sub-lithospheric
+processes in the definition and consider variations in lithospheric
+thickness as providing an isostatic contribution to surface elevations
+(Fig. 1c).
+Processes that likely originate the rock uplift (sensu England and
+Molnar, 1990) shown in Fig. 1a and b are the isostatic adjustment to
+surface mass redistribution due to (1) deglaciation since the LGM and
+(2) erosion of the orogen, the isostatic adjustment to (3) lithospheric
+structural changes and (4) the dynamic traction due to sub-lithospheric
+mantle convection. These mechanisms and their potential contributions
+to the observed rock uplift rates are assessed hereafter.
+3.1. Alpine uplift by isostatic adjustment to deglaciation
+3.1.1. Overview
+Approximating the behaviour of the Alpine lithosphere to that of a
+viscoelastic medium (e.g. Turcotte and Schubert, 2002; Watts, 2009),
+the characteristic viscoelastic relaxation time, τ = 2η/E (where η and E
+are, respectively, the mean asthenospheric viscosity and elastic modulus), defines the system response reference timescale. Reasonable estimates of τ for the Alpine system give values between a few thousands
+and a few tens of thousands of years (e.g. Digby, 1981; Jackson and
+Paterson, 1987; Forte and Mitrovica, 1996). In the Alps,
+geochronological and geomorphological studies define a maximum age
+for the onset of the LGM deglaciation of ~21 ka (e.g. Ehlers and
+Gibbard, 2004; Ivy-Ochs et al., 2006). Since the characteristic timescale
+of the deglaciation is comparable to the viscoelastic relaxation time,
+viscoelastic effects are expected to be important and provide a substantial contribution to the currently observed uplift rate.
+3.1.2. Modeling results and interpretation
+With a viscoelastic Earth model and assuming a simplified LGM ice
+mass, Gudmundsson (1994) predicted post-LGM rebound rates comparable in magnitude to modern geodetic measurements. However, he
+cautioned about the need for more accurate assessments as to the
+rheological parameters and geometrical constraints involved with these
+estimates. According to Norton and Hampel (2010) post-LGM unloading may result in uplift rates > 10 mm/a during the early stages of
+the deglaciation (i.e. ~20–15 ka), but such values quickly reduce to
+0.3–0.4 mm/a after ~13 ka, when the viscous deformation becomes
+dominant with respect to the elastic strain. Slightly lower, but similar
+values were obtained by Stocchi et al. (2005) and Spada et al. (2009)
+based on the sea-level equation approach (Farrell and Clark, 1976).
+Spada et al. (2009), in particular, estimate up to ~0.5 mm/a of nearpresent uplift rates due to the deglaciation since the LGM and the
+melting of the remote ice-sheets in the far-field of the Mediterranean
+based on the ICE-5G model of Peltier (2004) (Fig. S2). Barletta et al.
+(2006) estimated some 0.4–0.5 mm/a of local uplift rate due to the
+glacier reduction during the 1996–1999 time interval in the Western
+Alps. Overall, these models account for ~10–30% of the geodetically
+determined rock uplift rates in the Western/Central Alps and reach up
+to ~50% in the Eastern Alps.
+Chery et al. (2016) show that an ad hoc viscosity contrast between
+the Alpine foreland and central sector may allow post-LGM rebound to
+explain nearly all of the fast Western Alpine uplift rates as obtained by
+Serpelloni et al. (2013). Mey et al. (2016) argue that uplift rates due to
+the melting of the LGM Alpine ice cap account for ~90% of the orogenscale uplift rates measured through levelling techniques by Jouanne
+et al. (1995), Schlatter et al. (2005) and Bruyninx (2004). However,
+when directly compared to our geodetically determined rock uplift
+F. shows lower residuals in the Central Alps but higher residuals in the
+Western and Eastern Alps with respect to the those obtained using estimates by Spada et al. (2009) (Fig. 2). Estimates by Mey et al. (2016)
+also predict uplift rates higher than observed in the South-Eastern,
+North-Western and South-Western Alps (Fig. 2b), while over-predictions with respect to observations are almost exclusively located outside
+the Alpine belt if estimates by Spada et al. (2009) are considered
+(Fig. 2a).
+The proposed contribution from post-LGM rebound to the observed
+rock uplift rates thus ranges widely from values as low as ~10–30%
+(e.g., Stocchi et al., 2005; Spada et al., 2009; Norton and Hampel, 2010)
+to > 90% rates (e.g. Chery et al., 2016; Mey et al., 2016). However, the
+upper end of these estimates calibrated to post-LGM rebound in the
+Central Alps leads to high residuals in the Western and Eastern Alps,
+even if one accounts for lateral variations in lithospheric rigidity (Mey
+et al., 2016). We thus think that more conservative estimates of uplift
+rates by postglacial rebound (e.g. Stocchi et al., 2005; Norton and
+Hampel, 2010) and overall contributions to observations between
+~10–30% and up to ~50% in the Western/Central and Eastern Alps,
+respectively, are more likely. In the Western/Central Alps, one may add
+to these percentages an extra 10–20% due to the present-day glacier
+shrinkage (Barletta et al., 2006), although this effect appears to be
+primarily a short-wavelength spatial feature.
+3.2. Alpine uplift by isostatic adjustment to erosion and sediment
+redistribution
+3.2.1. Overview
+Although debated (e.g. Willenbring and Jerolmack, 2016), longterm sedimentary and geochronological archives document an increase
+in the mass of sediments released from most major mountain ranges
+since the onset of glaciation in the late Cenozoic (e.g. Peizhen et al.,
+2001; Herman et al., 2013) and the Alps have been one of the best
+studies examples (e.g. Kuhlemann et al., 2002; Mancin et al., 2009; Fox
+et al., 2015). While it is not clear whether glaciers are more effective
+erosive agents than rivers (e.g. Koppes and Montgomery, 2009), it is
+established that shifting fluvial-glacial conditions involve transient
+landscapes associated with significant erosional changes at 101
+–106 a
+timescales (e.g. Koppes and Montgomery, 2009; Willett, 2010; Sternai
+et al., 2011; Herman et al., 2011; Sternai et al., 2013; Fox et al., 2015;
+Sternai et al., 2016b). The density of upper crustal rocks and sediments
+exceeds that of ice by a factor of ~3, which implies that erosion rates in
+the order of the millimetre per year sustained throughout glacial-interglacial cycles produce surface load variations comparable to those
+due to ice building/melting (e.g. Champagnac et al., 2009; Sternai
+et al., 2016b).
+3.2.2. Modeling results and interpretation
+Based on sediment budget analysis and the assumption that valleys
+and lakes became sedimentologically closed since the deglaciation,
+Hinderer (2001) estimated a mean Alpine post-LGM erosion rate of
+~0.6 mm/a. These values are roughly consistent with spatially averaged denudation rates inferred from cosmogenic nuclide analysis
+yielding values between 0.2 and 0.3 mm/a at postglacial timescales in
+the Alpine foreland and up to 0.9 mm/a along the central axis of the
+orogen (Fig. 3a and references therein), in general agreement with the
+pattern reported by Wittmann et al. (2007). Valley-scale studies suggest
+postglacial erosion rates of the order of a few mm/a with maximum
+values of up to a few cm/a and high variability within very small distances due to the transient nature of landscapes adjusting to the glacialinterglacial transition (e.g. Brocard et al., 2003; Korup and
+Schlunegger, 2007; Norton and Hampel, 2010; Valla et al., 2010; van
+den Berg et al., 2012; Saillard et al., 2014; Rolland et al., 2017; Petit
+et al., 2017). Despite the variability of erosion rates across spatial and
+temporal scales, one can recognize a first order agreement between the
+spatial distribution of Alpine erosion and rock uplift rates (Fig. 3b),
+which may reflect a link between denudation and the associated isostatic response to unloading (e.g. Schlunegger and Hinderer, 2001;
+Wittmann et al., 2007). Somewhat higher erosion rates are observed
+during the Quaternary and the deglaciation with respect to pre-Quaternary values, i.e. prior to the onset of the Northern Hemisphere glaciation (e.g. Fox et al., 2015; Grischott et al., 2017).
+Assessing surface load changes and resulting uplift rate due to rock
+mobilization by erosion is difficult because the sediment pathway may
+involve storage in intramontane basins, floodplains, fans and terraces
+within predominantly erosional landscapes (e.g. Castelltort and Van
+Den Driessche, 2003; Romans et al., 2015). Boreholes and geophysical
+surveys allow relatively detailed reconstructions of the sedimentary fills
+within major Alpine valleys (e.g. Stucki and Schlunegger, 2013). Using
+a viscoelastic model with spatially variable plate elastic thickness
+averaging to 20 km and assuming that valley fills are entirely of postglacial origin, Mey et al. (2016) estimate a maximum uplift rate due to
+post-LGM erosion and sedimentary mass redistribution reaching up to
+~0.5 mm/a in the Central Alps.
+Elastic flexure models were also used to estimate the time-averaged
+unloading due to erosion throughout the Pliocene-Quaternary and associated average uplift rate neglecting the attenuation that would result
+from accumulation of sediments within Alpine valleys. Champagnac
+et al. (2007) constrained the spatial distribution of surface load changes
+due to Pliocene-Quaternary erosion based on the so-called Geophysical
+Relief (Small and Anderson, 1998) and used an elastic flexural model to
+estimate the induced Alpine uplift assuming a uniform plate elastic
+thickness of 10 km. These estimates provide a maximum bound on the
+average uplift at the million years timescale reaching up to ~500 m
+along the axial part of the orogen due to glacial carving of Alpine
+valleys. By comparing the present-day landscape to a reconstruction of
+the pre-glacial Alpine topography, Sternai et al. (2012) improved the
+determination of the spatial distribution of long term erosion and obtained a maximum of ~250 m of erosion-induced elastic uplift assuming a uniform 20 km thick elastic plate, roughly consistent with
+results by van der Beek and Bourbon (2008). In Fig. 4, we present an
+improvement on these estimates that accounts grossly for sediment
+deposition. We constrain the volume of material eroded from the Alps
+by spatial integration of the eroded material as estimated by Sternai
+et al. (2012), providing a volume of ~300,000 km3 of sediments since
+the mid-Quaternary (i.e. ~150,000 km3
+/Ma), roughly consistent with
+the ~160,000 km3
+/Ma sediment discharge rate estimated by
+Kuhlemann et al. (2002). According to the late-Quaternary sedimentary
+budget provided by Kuhlemann et al. (2002), 42%, 23%, 21% and 14%
+of the estimated volume of eroded material is uniformly redistributed
+into low-slope regions (below a 5° threshold) within the Rhone, Rhine,
+Po and Danube catchments, respectively. We then estimate the average
+vertical displacement due to such a mass redistribution using an elastic
+plate model with uniform elastic thickness of 20 km (Sternai et al.,
+2012). The onset of major Quaternary glaciation in the Alps is constrained to have occurred at ~1 Ma from stratigraphic evidence in the
+Po plain (Muttoni et al., 2003) and onset of Alpine valley deepening
+(Häuselmann et al., 2007; Valla et al., 2011). This value is used to
+calculate the average vertical displacement rates in Fig. 4b-d, showing
+that the maximum time-averaged uplift rate due to late-Quaternary
+erosion and sediment deposition reaches up to ~0.25 mm/a. Sediment
+deposition, in particular, affects the overall pattern of isostatic adjustment (Fig. 4c), but it does not significantly modify the maximum value
+of uplift rates along the orogen axis (Fig. 4b and d).
+It appears that the maximum contribution to orogen-scale uplift
+rates (Fig. 1a) by erosion and sediment redistribution at postglacial and
+late-Quaternary timescales ranges between ~10–20% in the Western
+and Central Alps and ~30–40% in the Eastern Alps.
+P. Sternai, et al. Earth-Science Reviews 190 (2019) 589–604
+593
+(caption on next page)
+P. Sternai, et al. Earth-Science Reviews 190 (2019) 589–604
+594
+3.3. Alpine uplift by isostatic adjustment to lithospheric structural changes
+3.3.1. Overview
+Information from e.g. seismic velocity and reflection data, receiver
+function analysis, and other geophysical and geological observations
+and models constrain the crustal and lithospheric structure of the Alps.
+The deviation from Airy type isostatic equilibrium that arises from the
+crustal and lithospheric Alpine structures gives insights into possible
+sources of rock uplift by ongoing or recent lithospheric processes.
+According to the recent model by Spada et al. (2013), which generally
+agrees with previous models (e.g. Waldhauser et al., 2002; Behm et al.,
+2007; Di Stefano et al., 2009; Schreiber et al., 2010; Wagner et al.,
+2012) the European Moho is at typical continental depths in the
+northern Alpine foreland (~30 km) and dips distinctively toward the
+South-East in the Central Alps and toward the South in the Eastern Alps
+(Fig. 5a). The Moho is deeper than 55 km in the Central Alps and, in the
+Eastern Alps, it shallows smoothly toward the east from about 50 km
+beneath the Tauern region to ~30 km in the Vienna basin. In the
+Western Alps, the European Moho descends beneath the Ivrea body and
+the Adriatic Moho to a depth of ~55 km.
+The local isostatically compensated elevation, ziso, depends on the
+thickness and density structure of the lithosphere and sub-lithospheric
+mantle. The surface elevation of a lithospheric column with respect to a
+reference elevation (H, usually taken as the average mid-oceanic ridge
+elevation, as suggested by Lachenbruch and Morgan, 1990), is determined by the crustal thickness, lc, and average density, ρc, the lithospheric mantle thickness, lm, and average density, ρm, and the
+asthenosphere average density, ρa, according to the eq. 3.3.2. Modeling results and interpretation
+In Fig. 5b,c, we compare ziso expected from the Moho model by
+Spada et al. (2013) and density structure by Molinari and Morelli
+(2011), providing spatial variations of the terms lc and ρc, respectively,
+to the present-day topography. Note that several other crustal and
+density models covering the entire Alps exist (e.g. Tesauro et al., 2008;
+Di Stefano et al., 2009; Koulakov et al., 2009). Although variations arise
+if other crustal or density models are used, we focus here on features
+that appear from other available geophysical models (Fig. S3). In the
+calculation of ziso, we assume a 100 km thick lithosphere (but see a
+discussion about lithospheric structures below) and chose ρa in order to
+minimize the regional misfit between ziso and the present-day topography, zobs. The resulting residual topography, i.e. zres = zobs - ziso, is
+slightly positive in the Western Alps, with maximum amplitude of
+~250 m in the South-Western Italian Alps, and negative in the Central
+and Eastern Alps, with maximum amplitude of ~ − 750 m along the
+central axis of the belt (Fig. 5b,c). This suggests that, given the inferred
+lithospheric structures and densities, the Central and Eastern Alps
+should stand considerably higher than observed if isostasy held entirely, whereas the Western Alps should stand a few hundreds of meter
+below their actual elevation. Alternatively, one can assume Airy isostatic equilibrium and use the equation defining ziso to calculate the
+spatial variations in lithospheric mantle thickness, lm, required to
+achieve zero residual topography (e.g. see discussion in Gvirtzman
+et al., 2016). In this case, the estimated lithosphere-asthenosphere
+boundary would be deeper (~130 km) beneath the Central and Eastern
+Alps and shallower (~90 km) beneath the Western Alps. These values
+are consistent with the available geophysical constraints on the lithosphere-asthenosphere boundary (e.g. Kissling, 1993; Tesauro et al.,
+2013).
+It is worth noting that the above estimates provide information only
+on the static balance due to the lithospheric structure of the Alps. The
+occurrence of a recent (posterior to ~5 Ma) slab breakoff event below
+the Western Alps was proposed based on seismic tomography models
+(e.g. Lippitsch et al., 2003; Spakman and Wortel, 2004; Kissling et al.,
+2006; Beller et al., 2017; Kästle et al., 2018). The removal of buried
+load by Pliocene-Quaternary detachment of the mantle lithosphere was
+also independently advocated in order to explain anomalous features
+appearing from paleo-topographic reconstructions of the Alps (Sternai
+et al., 2012) and analyses of the thermochronometric Alpine record
+(Baran et al., 2014; Fox et al., 2015), as well as seismically active extension in the core of the Western Alps (Sue et al., 1999). The down-dip
+slab continuity beneath the Western and the Central Alps is, however,
+still debated for a continuous and apparently steeper slab may be imaged beneath the Western Alps depending on the geophysical data and
+tomographic inversion strategies (e.g. Piromallo and Morelli, 1997;
+Piromallo and Faccenna, 2004; Zhao et al., 2016).
+How would late-Cenozoic slab breakoff in the Western Alps affect
+the ongoing pattern of Alpine uplift? Thermomechanical numerical
+models show that a slab breakoff occurring at depth between 100 and
+140 km, likely takes place through initial necking followed by actual
+tearing and detachment of the mantle lithosphere and may take up to a
+few millions of years (e.g. Duretz and Gerya, 2013; Duretz et al., 2014).
+During this time, regions as wide as ~150–200 km are subject to uplift
+at rates that may reach up to ~6–10 mm/a, although such high rates of
+uplift are generally sustained for periods shorter than ~1 Ma. In these
+numerical models, however, one cannot separate the isostatic effect due
+to lithospheric unloading by detachment of the denser slab and the
+dynamic effect due to the viscous downward traction associated with
+slab sinking (see the following section). Despite the profound impact of
+slab detachment on topographic changes suggested by numerical
+models, evaluating the contribution to topographic changes by slab
+dynamics across natural orogens such as the Alps is difficult, also because the crust deforms actively under collisional stresses. It might be
+that a portion of up to ~50% of the observed uplift rates is related to
+Pliocene-Quaternary detachment of the western European slab. However, while such contribution may apply to a region in the Western Alps
+that extends laterally some 150–200 km from the position of the proposed slab tear, i.e. in the northwestern Alpine arc, the vertical surface
+displacements rates in the Central and Eastern Alps are unlikely to be
+related to this mechanism. Even if the current impact of the detachment
+of the subducting European slab on the vertical surface displacement
+rates was of second order with respect to isostatic adjustments to deglaciation or erosion, it may account for significant lateral differences
+in the observed rock uplift rate between the South-Western, Central or
+Eastern Alpine sectors.
+3.4. Alpine uplift by dynamic adjustment due to sub-lithospheric mantle
+flow
+3.4.1. Overview
+A contribution to the observed uplift rates arises from the sub-lithospheric convection, which may induce surface displacements due to
+vertical traction at the base of the lithosphere or crust. This contribution can be defined as the rate of change of dynamic topography (zdyn,
+sensu Hager et al., 1985), that is
+z
+dyn. To quantitatively assess this
+potential contribution, we follow the methodology described in Becker
+and Faccenna (2011) and Becker et al. (2015) and infer the instantaneous mantle flow of an incompressible, Newtonian fluid spherical layer with radial viscosity variations between the base of the lithosphere (imposed at ~100 km depth) and a depth of 1200 km. The
+density model was constructed by scaling the seismic velocity structure
+(see below) into temperature (Hager et al., 1985; Panasyuk and Hager,
+2000; Steinberger and Calderwood, 2006; Simmons et al., 2010; Becker
+and Faccenna, 2011). zdyn is estimated for three discrete time-steps from
+the inferred radial traction due to the mantle flow assuming a free-slip
+surface boundary, while
+z
+dyn provides an estimate of the potential dynamic contribution from the sub-lithospheric mantle flow to the observed uplift rate pattern.
+3.4.2. Modeling results and interpretation
+In Fig. 6, we show results using the recent, high resolution, P-wave
+Alpine seismic tomography model by Zhao et al. (2016), and the highresolution tomography model by Lippitsch et al. (2003), embedded into
+the global P-wave mantle tomography model by Li et al. (2008). Consistently with the inferred mantle viscosity profile from postglacial rebound studies (e.g. Cianetti et al., 2002, and references therein) and
+analyses of the Alpine postglacial rebound (Stocchi et al., 2005; Spada
+et al., 2009), the reference viscosities of the lithosphere (0–100 km),
+asthenosphere (100–300 km), upper mantle (300–670 km) and lower
+mantle (670–1200 km) are set to 50, 0.5, 1, and 50 in units of 1021 Pa s,
+respectively. Results with the model by Zhao et al. (2016) (Fig. 6a-d)
+show that the dynamic uplift rates are generally positive across the
+entire Alpine belt and attain values as high as ~2 mm/a in a region that
+encompasses the Southern-Central Alps, and the Po plain. This suggests
+a significant contribution to the vertical displacement rate from
+Fig. 5. (a) Moho map by Spada et al. (2013). Blue contours show density isolines by Molinari and Morelli (2011). (b) Map of residual topography, zres = zobs − ziso.
+Isolines are shown at 500 m intervals. Note that the assumptions made for the calculation of ziso across the study region are plausible for the Alpine belt (see Section
+3.3), but not necessarily for regions outside the Alps (e.g., northern Alpine foreland and Po plain), which implies reduced reliability of zres estimates in these regions.
+(c) Swath profile along the orogen axis (location shown in b). The green line shows Moho depths against distance (West-East, follows the right axis). The blue and red
+profiles show the mean observed topography, zobs, and mean isostatic topography, ziso, against distance (West-East, follow the left axis), respectively. Shaded regions
+show minimum and maximum values.
+P. Sternai, et al. Earth-Science Reviews 190 (2019) 589–604
+597
+upwelling of a low velocity zone north of the subducting European slab
+or increased resistance at the 410 km transition zone reducing the slab
+pull in time (Zhao et al., 2016). Results based on the model by Lippitsch
+et al. (2003) (Fig. 6e-h), suggesting less pronounced low velocity
+anomalies north of the subducting European slab and detachment of the
+European slab below the Western Alps, also show overall positive dynamic uplift rates across the belt, with maximum values of ~0.1 mm/a
+in a region encompassing the Ligurian Alps, Northern Apennines and
+southern Po plain. Results also show that the North-Western Alps are
+subject to slightly negative, if any, dynamic uplift rate, likely due to less
+relevant negative P-wave velocity anomalies with respect to the model
+by Zhao et al. (2016), and the viscous down-welling asthenospheric
+flow involved by the detachment and untied sinking of the European
+slab below this region. Both models produce uplift in the Po plain and
+east of longitude 14°, which is at odds with observations (Fig. 1a).
+Assessing the contribution to the observed surface elevation changes
+in time by
+z
+dyn is difficult because estimated magnitudes vary significantly depending on the reference density structure (Fig. 6c,g) and
+the imposed viscosity contrast between the lithosphere and asthenosphere (Fig. 7). For a given density structure and lithosphere-to
+might to some extent reduce rock uplift rates due to horizontal convergence and crustal thickening in the Eastern Alps, this mechanism can
+not provide additional contributions to the Western and Central Alpine
+rock uplift rates. Another implication of the interpretation that Eastern
+Alpine rock uplift rates are entirely controlled by surface mass redistribution is that, if we were to measure the eastern or Central Alpine
+uplift rates some 10 ka ago, we would observe values as high as
+10–15 mm/yr since current measurements are only the viscous tail of a
+viscoelastic response to the bulk of the deglaciation (e.g. Spada et al.,
+2009; Norton and Hampel, 2010), possibly modulated by erosion rate
+changes on postglacial timescales (e.g. Wittmann et al., 2007; Norton
+et al., 2010; Norton et al., 2011; Hinderer et al., 2013).
+If one assumes a uniform lithospheric and sub-lithospheric mantle
+structure and no other sources of uplift than the isostatic adjustment to
+deglaciation and erosion, similar uplift rates should be observed along
+the strike of the belt. Roughly double uplift rates in the Western/Central
+Alps than in the Eastern Alps, however, would require variations of ice
+melting and erosion rates of a similar magnitude. Although along-strike
+variations in erosion rate exist (e.g., Hinderer et al., 2013; Wittmann
+et al., 2007; Norton et al., 2010; Norton et al., 2011; Fox et al., 2015),
+the average LGM ice-cap thickness and width are increased in the
+Eastern Alps with respect to the Western and Central Alps (Ehlers and
+Gibbard, 2004), which is opposite to the observed trends in rock uplift
+rates. This suggests that either the Alpine lithospheric heterogeneities
+substantially modulate the rock uplift rate signal primarily imposed by
+the surface mass redistribution, or sources of rock uplift rate related to
+the solid Earth contribute, or both (e.g. Wölfler et al., 2008; Campani
+et al., 2010; Glotzbach et al., 2011; Sanchez et al., 2011; Boutoux et al.,
+2016). Even estimates of modern uplift rates due to the deglaciation
+that account for sediment redistribution as well as lithospheric heterogeneities (Mey et al., 2016), however, show significant misfit with
+observations (Fig. 2b), especially in the Western and Eastern Alpine
+sectors. Thus, the interpretation that elevation changes are mainly of
+surface unloading origins does not hold and contributions from the
+solid Earth should be accounted for.
+A Pliocene-Pleistocene slab detachment event below the Western
+Alps (e.g. Lippitsch et al., 2003) may induce the lithosphere and surface
+to rebound upward and potentially allow estimates of uplift rates to
+approach the budget of observations. The spatial correlation between
+geodetic uplift rates and long-term erosion rates (e.g., Fig. 3b, Fox et al.,
+2015; Nocquet et al., 2016) or landscape modifications (Sternai et al.,
+2012) in the Western Alps may be representative of the surface response
+to such a deep-seated processes. However, the seismic evidence of the
+Western Alpine slab breakoff is uncertain (e.g. Zhao et al., 2016). In
+addition, even if recent slab breakoff occurred in the Western Alps, it is
+not clear whether the expected modifications as to the rock uplift rate
+may extend laterally to the Central Alps, currently subject to the highest
+rates of uplift. A fully convincing interpretation of the ongoing Alpine
+strain pattern involving predominant isostatic forces, if possible, requires additional data and investigations regarding the surface vs. deep
+Earth process coupling.
+The viscous asthenospheric flow in response to a post-5 Ma detachment of the western European slab as suggested by e.g. Lippitsch
+et al. (2003) might imply subsidence at relatively slow rates in the
+North-Western Alps (Fig. 6f), which would hamper the observed rock
+uplift rates at the surface. However, the regional correlation between
+fast uplift rates in the Western Alps and a 200 km deep, slow velocity
+anomaly imaged by the tomography by Zhao et al. (2016) points toward a possible contribution by asthenospheric upwelling to ongoing
+surface displacements through vertical tractions (Fig. 6c). The spatial
+misfit between the estimated and observed peak uplift rates located > 100 km away from each other is likely related to the lithospheric filtering of the mantle uplift signal or to other sources of vertical
+displacements. For instance, the geometry of crustal structures accommodating the strain modulates the possible contribution from the sublithospheric flow to the surface displacement rates at the local scale.
+Inferred mantle-driven upward vertical displacement rates in the
+Eastern Alps are consistent with mantle upwelling in the Pannonian
+basin (e.g. Falus et al., 2000; Cloetingh et al., 2006). However, the
+easternmost Alpine surface displacement rates appear to have a component of subsidence, which might be due to sediment loading in the
+Pannonian basin (e.g. Royden et al., 1983). Similarly, subsidence due to
+sediment loading or compaction (Carminati and Martinelli, 2002) and/
+or the northern Apennine slab pull (Faccenna et al., 2014) appear to
+override the inferred uplift rates due to mantle convection in the Po
+plain. As for the other mechanisms, the absolute magnitude of the
+possible contribution from mantle convection to the observed rock
+uplift rate is difficult to constrain based on current knowledge (Figs. 6,
+7 and Fig. S4). However, the general first order agreement between the
+observed orogen-scale pattern of surface displacement rate and estimates of rock uplift rate due to the sub-lithospheric flow based on the
+most recent tomography by Zhao et al., 2016, point to a possibly significant contribution and we argue for ~10–30% at the orogen scale.
+Alpine uplift is mechanically associated with predominant extensional tectonics as tested by numerical modeling (e.g. Delacou et al.,
+2005; Vernant et al., 2013). Prevailing extensional faulting and minor
+strike-slip deformation characterize the Plio-Quaternary Western Alpine strain (e.g. Bistacchi and Massironi, 2000; Sue and Tricart, 2003;
+Fig. 8. Interpretative summary of proposed contributions to the observed Alpine rock uplift rates due to the deglaciation (light blue), erosion (green), lithospheric
+structural changes (red) and mantle convection (purple). Dashed lines highlight more speculative proposals. Dotted lines highlight proposals that we consider
+unlikely. See Section 3 for further detail and appropriate references.
+P. Sternai, et al. Earth-Science Reviews 190 (2019) 589–604
+600
+Champagnac et al., 2006; Tricart et al., 2006; Bauve et al., 2014;
+Schwartz et al., 2017) and the present-day seismicity (e.g. Maurer et al.,
+1997; Eva and Solarino, 1998; Sue et al., 1999; Delacou et al., 2004; Sue
+et al., 2007). However, although the most seismically active region
+between the Pelvoux, Argentera and Viso massifs (Briançonnais and
+Piedmont) is found where the maximum extensional deformation occurs (e.g. Maurer et al., 1997; Eva and Solarino, 1998; Sue et al., 1999;
+Delacou et al., 2004; Sue et al., 2007), the fastest uplift rates is in the
+vicinity of the Mont Blanc and Vanoise-Valais massifs (Fig. 1a) and is
+located by some 150 km to the north with respect to the Briançonnais
+and Piemontais areas (e.g. Vigny et al., 2002; Sue et al., 2002; Sue et al.,
+2007b; Walpersdorf et al., 2015). Alpine seismic catalogues only reports
+on a few decades of activity, but this discrepancy may suggest that
+aseismic processes operating in the deep crust or lithosphere such as
+those described above are mainly responsible for the ongoing vertical
+displacement rates in these regions, while the present-day trans-tensional seismicity is predominantly related to upper crustal processes
+accommodating the horizontal plate motion, i.e. the counterclockwise
+rotation of the Adria microplate (e.g. Anderson and Jackson, 1987;
+Collombet et al., 2002; Battaglia et al., 2004; Nocquet and Calais, 2004;
+D'Agostino et al., 2008; Rolland et al., 2012). Such processes may be
+conditioned by structural inheritance, e.g. the Penninic front and the
+Ivrea body (Sue et al., 2002). This interpretation implies uncoupled
+vertical and horizontal strain mechanisms and highlights a further intriguing aspect of the present-day Alpine tectonics in that aseismic
+vertical deformation is one order of magnitude higher than seismogenic
+horizontal strain.
+5. Conclusions
+Based on new and previously proposed models, we consider it unlikely that the isostatic response due to ice unloading during deglaciation is the only mechanism behind ongoing Alpine-scale vertical
+surface displacements. While such a proposal might, to some extent,
+apply to the Eastern Alps, this interpretation requires other mechanisms
+to counterbalance rock uplift rates due to ongoing crustal shortening/
+thickening, the identification of which is not straightforward. We suggest that rock uplift rates due to the melting of the LGM Alpine ice-cap
+and erosion contribute up to ~50% to the observed vertical displacement rates in the Western and Central Alps. This implies substantial
+contributions by convective processes (e.g., detachment of the western
+European slab) to the measured surface displacement rates, and we also
+support the view that the mechanisms of ongoing Alpine surface displacements include dynamic contributions related to the sub-lithospheric mantle flow.
+In conclusion, although the European Alps are the most studied
+orogen worldwide, our knowledge regarding even the most recent and
+ongoing processes is still limited. This fact highlights the importance of
+collaborative research, because multidisciplinary datasets are required
+to improve the estimates and interpretations reported here, toward a
+better understanding of Alpine and, more generally, of orogenic dynamics.
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.earscirev.2019.01.005.
+Declarations of interest
+None.
+Acknowledgements
+P.S. is grateful to the Swiss NSF for providing funding for this research (Ambizione grant PZ00P2_168113/1). P.G.V. acknowledges
+support from SNFS grant PP00P2_170559. G.S. is funded by a FFABR
+(Finanziamento delle Attività Base di Ricerca) grant of the Italian MIUR
+(Ministry of Education, University and Research). We are grateful to all
+public and private institutions and companies that make GPS data
+freely available for scientific applications. In particular, we acknowledge the EPN-EUREF network, the EPOSA and BEV networks in Austria,
+the ORPHEON (through RENAG), RGP and RENAG networks in France,
+the GREF network in Germany, the SIGNAL network in Slovenia, LeicaITALPOS, Topcon-NETGEO, ASI-GEODAF, INGV-RING, InOGSFREDNET networks in Italy, and all regional networks in Italy (FOGER
+Emilia-Romagna, Rete “Antonio Marussi” in Friuli Venezia Giulia,
+Regione Liguria, SPINGNSS in Piemonte and Lombardia, STPOS and
+TPOS in Trentino-Alto Adige and Regione Veneto). We thank Elmar
+Brockmann for providing velocities for the Swisstopo GNSS network in
+Swiss. We are grateful to Liang Zhao for sharing with us the tomography model. The manuscript has greatly improved following suggestion
